@@ -1,6 +1,6 @@
 ssc install estout
 
-import delimited "C:\Users\Binati_Jacopo\Desktop\project\data_project (3).csv", varnames(1) asfloat stringcols(1 3 4) numericcols (2 5 6 7 8 9 10 11 12 13 14 15) 
+import delimited "C:\Users\Binati_Jacopo\Desktop\project\data_project.csv", varnames(1) asfloat stringcols(1 3 4) numericcols (2 5 6 7 8 9 10 11 12 13 14 15) 
 
 
 *first step
@@ -15,23 +15,23 @@ gen avg_freedom = (freedomofopinionandexpressionise + freedomofbeliefandreligion
 gen lnavg_free = ln(avg_freedom)
 lab var lnavg_free "Log of average freedom"
 
+*generate before and after var
+gen after = year==2015
+gen before = year==2021
+
+keep if year==2015 | year==2021
 * tell Stata it's xt data with time difference of 5 yearas
 local d = 2021-2015
 xtset country_id year, delta(`d')
 xtdes
 
 * generate variable treated and untreated
-sort country year
+sort year country
 gen treated = L.civicparticipation
  replace treated  = F.treated if treated==.
 gen untreated = 1 - L.civicparticipation
  replace untreated  = F.untreated if untreated==.
  
-*generate before and after var
-gen after = year==2015
-gen before = year==2021
-
-keep if year==2015 | year==2021
 
 
 * treatment group defined if observed before only or both before and after
@@ -79,33 +79,35 @@ format yq %tq
 reg avg_civi avg_freedom fundamentalrights therighttolifeandsecurityofthepe dueprocessofthelawandrightsofthe fundamentallaborrightsareeffecti if year == 2015, robust
 /*
 
-Linear regression                               Number of obs     =         95
-                                                F(5, 89)          =      11.29
+Linear regression                               Number of obs     =         94
+                                                F(5, 88)          =     516.24
                                                 Prob > F          =     0.0000
-                                                R-squared         =     0.4199
-                                                Root MSE          =     14.373
+                                                R-squared         =     0.9435
+                                                Root MSE          =     .03865
 
 --------------------------------------------------------------------------------------------------
                                  |               Robust
                         avg_civi | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
 ---------------------------------+----------------------------------------------------------------
-                     avg_freedom |   .4116696   .1117149     3.69   0.000     .1896944    .6336447
-               fundamentalrights |   .0447396   .1017456     0.44   0.661    -.1574268     .246906
-therighttolifeandsecurityofthepe |  -.0530419   .0590638    -0.90   0.372    -.1704004    .0643166
-dueprocessofthelawandrightsofthe |   .2708208   .1240443     2.18   0.032     .0243475    .5172942
-fundamentallaborrightsareeffecti |    .019484   .0913382     0.21   0.832    -.1620031    .2009712
-                           _cons |   15.14295   5.486638     2.76   0.007     4.241112    26.04478
+                     avg_freedom |   1.168089   .1887828     6.19   0.000     .7929224    1.543255
+               fundamentalrights |  -.4952918    .406736    -1.22   0.227    -1.303594    .3130106
+therighttolifeandsecurityofthepe |  -.1869234   .0830514    -2.25   0.027    -.3519706   -.0218762
+dueprocessofthelawandrightsofthe |   .2804991   .0905022     3.10   0.003      .100645    .4603533
+fundamentallaborrightsareeffecti |   .1707381   .0851498     2.01   0.048     .0015208    .3399553
+                           _cons |   .0188354   .0195657     0.96   0.338    -.0200475    .0577182
 --------------------------------------------------------------------------------------------------
-
 */
 
 reg lnavg_civi treatmentXafter treatment after $RHS $RHSXafter [w=civicpart_bef], cluster(country) robust
 /*
+note: treatmentXafter omitted because of collinearity.
+note: after omitted because of collinearity.
+
 Linear regression                               Number of obs     =         95
-                                                F(1, 94)          =     127.00
+                                                F(1, 94)          =     529.57
                                                 Prob > F          =     0.0000
-                                                R-squared         =     0.5696
-                                                Root MSE          =     .21162
+                                                R-squared         =     0.9110
+                                                Root MSE          =     .07968
 
                                   (Std. err. adjusted for 95 clusters in country)
 ---------------------------------------------------------------------------------
@@ -113,13 +115,10 @@ Linear regression                               Number of obs     =         95
      lnavg_civi | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
 ----------------+----------------------------------------------------------------
 treatmentXafter |          0  (omitted)
-      treatment |   .0137819   .0012229    11.27   0.000     .0113537      .01621
+      treatment |    1.58682   .0689548    23.01   0.000     1.449909    1.723732
           after |          0  (omitted)
-          _cons |   3.199759   .0690479    46.34   0.000     3.062663    3.336855
+          _cons |  -1.472636   .0454141   -32.43   0.000    -1.562806   -1.382465
 ---------------------------------------------------------------------------------
-note: treatmentXafter omitted because of collinearity.
-note: after omitted because of collinearity.
-
 */
 
 reg lnavg_civi treatmentXafter treatment after lnavg_free $RHS $RHSXafter [w=civicpart_bef], cluster(country) robust
@@ -128,10 +127,10 @@ note: treatmentXafter omitted because of collinearity.
 note: after omitted because of collinearity.
 
 Linear regression                               Number of obs     =         95
-                                                F(2, 94)          =      63.22
+                                                F(2, 94)          =     595.13
                                                 Prob > F          =     0.0000
-                                                R-squared         =     0.5905
-                                                Root MSE          =     .20754
+                                                R-squared         =     0.9437
+                                                Root MSE          =     .06371
 
                                   (Std. err. adjusted for 95 clusters in country)
 ---------------------------------------------------------------------------------
@@ -139,9 +138,9 @@ Linear regression                               Number of obs     =         95
      lnavg_civi | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
 ----------------+----------------------------------------------------------------
 treatmentXafter |          0  (omitted)
-      treatment |   .0107261   .0018583     5.77   0.000     .0070364    .0144159
+      treatment |   .8229461    .084569     9.73   0.000     .6550324    .9908598
           after |          0  (omitted)
-     lnavg_free |    .193921   .1016902     1.91   0.060    -.0079873    .3958293
-          _cons |    2.60948   .3268714     7.98   0.000     1.960469    3.258491
+     lnavg_free |   .4091795   .0491467     8.33   0.000     .3115975    .5067614
+          _cons |  -.7984224    .073365   -10.88   0.000    -.9440903   -.6527546
 ---------------------------------------------------------------------------------
 */
