@@ -1,3 +1,5 @@
+*THIS FILE EXPLORE THE VERY FIRST PREVIEW OF THE DATABASE. ALL THE VARIABLES HAVE BEEN CHANGED AND THE FINAL NAME OF THE DATABASE IS "data_project".
+
 import delimited "C:\Users\Binati_Jacopo\Desktop\project\data_project (1).csv", varnames(1)
 
 save C:\Users\Binati_Jacopo\Desktop\project\data_project.csv, replace
