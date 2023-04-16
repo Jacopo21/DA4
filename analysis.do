@@ -67,10 +67,16 @@ gen lnavg_civi21 = ln(avg_civi21)
 lab var lnavg_civi15 "Log of average civic participation in 2015"
 lab var lnavg_civi21 "Log of average civic participation in 2021"
 
+sort country year
+
+gen yq = mdy(1,1,year)
+format yq %tq
+
+********************TABS OF EACH REGION*************************
 hist civicparticipation if before, percent col(navy*0.8) lcol(white) ylab(,grid) xlab(,grid)
 graph export "C:\Users\Binati_Jacopo\Desktop\project\hist_civicpart.png",replace
 
-*TABS OF EACH REGION
+
 tab region
 twoway line civicparticipation year if region == "EU + EFTA + North America", by(country) legend(label(1 "2015") label(2 "2021"))
        xtitle("Year") ytitle("Civic Participation") ytitle(`"`: variable label country'"')
@@ -101,10 +107,6 @@ twoway line civicparticipation year if region == "South Asia", by(country) legen
 graph export "C:\Users\Binati_Jacopo\Desktop\project\GRAPHS\SOUTHASIA_BEFAFTcivi.png",replace
 
 *************************************************************************
-sort country year
-
-gen yq = mdy(1,1,year)
-format yq %tq
 
 
 ******
@@ -127,6 +129,25 @@ therighttolifeandsecurityofthepe |  -.1494585   .0819624    -1.82   0.072    -.3
 dueprocessofthelawandrightsofthe |   .2516298   .0987211     2.55   0.013     .0554424    .4478172
 fundamentallaborrightsareeffecti |   .1040505   .1028918     1.01   0.315    -.1004253    .3085263
                            _cons |   .0769185    .028858     2.67   0.009     .0195693    .1342677
+--------------------------------------------------------------------------------------------------
+*/
+reg civicparticipation freedomfromarbitraryinterference freedomofassemblyandassociationi freedomofbeliefandreligioniseffe freedomofopinionandexpressionise if year == 2015, robust
+/*
+Linear regression                               Number of obs     =         94
+                                                F(4, 89)          =     803.12
+                                                Prob > F          =     0.0000
+                                                R-squared         =     0.9623
+                                                Root MSE          =     .03089
+
+--------------------------------------------------------------------------------------------------
+                                 |               Robust
+              civicparticipation | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+---------------------------------+----------------------------------------------------------------
+freedomfromarbitraryinterference |   .0120167   .0195311     0.62   0.540    -.0267912    .0508247
+freedomofassemblyandassociationi |   .4894641   .1149713     4.26   0.000     .2610185    .7179097
+freedomofbeliefandreligioniseffe |  -.0447818   .0432437    -1.04   0.303    -.1307062    .0411425
+freedomofopinionandexpressionise |   .3590919   .1083759     3.31   0.001     .1437514    .5744324
+                           _cons |   .0779508   .0194909     4.00   0.000     .0392228    .1166788
 --------------------------------------------------------------------------------------------------
 */
 reg avg_civi21 avg_freedom21 fundamentalrights therighttolifeandsecurityofthepe dueprocessofthelawandrightsofthe fundamentallaborrightsareeffecti if year == 2021, robust
