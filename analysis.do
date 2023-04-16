@@ -74,7 +74,7 @@ graph export "C:\Users\Binati_Jacopo\Desktop\project\hist_civicpart.png",replace
 tab region
 twoway line civicparticipation year if region == "EU + EFTA + North America", by(country) legend(label(1 "2015") label(2 "2021"))
        xtitle("Year") ytitle("Civic Participation") ytitle(`"`: variable label country'"')
-graph export "C:\Users\Binati_Jacopo\Desktop\project\GRAPHS\EU-EFTA-NA_BEFAFTcivi.png",replace
+graph export "C:\Users\Binati_Jacopo\Desktop\project\EU-EFTA-NA_BEFAFTcivi.png",replace
 
 twoway line civicparticipation year if region == "East Asia & Pacific", by(country) legend(label(1 "2015") label(2 "2021"))
        xtitle("Year") ytitle("Civic Participation") ytitle(`"`: variable label country'"')
@@ -111,23 +111,22 @@ format yq %tq
 *REGRESSIONS
 reg avg_civi15 avg_freedom15 fundamentalrights therighttolifeandsecurityofthepe dueprocessofthelawandrightsofthe fundamentallaborrightsareeffecti if year == 2015, robust
 /*
-
 Linear regression                               Number of obs     =         94
-                                                F(5, 88)          =     516.24
+                                                F(5, 88)          =     155.89
                                                 Prob > F          =     0.0000
-                                                R-squared         =     0.9435
-                                                Root MSE          =     .03865
+                                                R-squared         =     0.9289
+                                                Root MSE          =     .04269
 
 --------------------------------------------------------------------------------------------------
                                  |               Robust
-                        avg_civi | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
+                      avg_civi15 | Coefficient  std. err.      t    P>|t|     [95% conf. interval]
 ---------------------------------+----------------------------------------------------------------
-                     avg_freedom |   1.168089   .1887828     6.19   0.000     .7929224    1.543255
-               fundamentalrights |  -.4952918    .406736    -1.22   0.227    -1.303594    .3130106
-therighttolifeandsecurityofthepe |  -.1869234   .0830514    -2.25   0.027    -.3519706   -.0218762
-dueprocessofthelawandrightsofthe |   .2804991   .0905022     3.10   0.003      .100645    .4603533
-fundamentallaborrightsareeffecti |   .1707381   .0851498     2.01   0.048     .0015208    .3399553
-                           _cons |   .0188354   .0195657     0.96   0.338    -.0200475    .0577182
+                   avg_freedom15 |   1.297546   .2246064     5.78   0.000     .8511881    1.743904
+               fundamentalrights |  -.6463209    .477036    -1.35   0.179     -1.59433     .301688
+therighttolifeandsecurityofthepe |  -.1494585   .0819624    -1.82   0.072    -.3123416    .0134246
+dueprocessofthelawandrightsofthe |   .2516298   .0987211     2.55   0.013     .0554424    .4478172
+fundamentallaborrightsareeffecti |   .1040505   .1028918     1.01   0.315    -.1004253    .3085263
+                           _cons |   .0769185    .028858     2.67   0.009     .0195693    .1342677
 --------------------------------------------------------------------------------------------------
 */
 reg avg_civi21 avg_freedom21 fundamentalrights therighttolifeandsecurityofthepe dueprocessofthelawandrightsofthe fundamentallaborrightsareeffecti if year == 2021, robust
@@ -150,7 +149,10 @@ dueprocessofthelawandrightsofthe |     .24893   .0781269     3.19   0.002     .0
 fundamentallaborrightsareeffecti |   .2343447   .0930557     2.52   0.014     .0494451    .4192444
                            _cons |   .0139718   .0177809     0.79   0.434    -.0213585    .0493021
 --------------------------------------------------------------------------------------------------
+
 */
+gen avg_civi = (avg_civi15 + avg_civi21)/2
+gen lnavg_civi = ln(avg_civi)
 
 reg lnavg_civi treatmentXafter treatment after $RHS $RHSXafter [w=civicpart_bef], cluster(country) robust
 /*
@@ -204,7 +206,8 @@ twoway line avg_civi15 year, by(region) legend(label(1 "2015") label(2 "2021"))
        xtitle("Year") ytitle("Civic Participation") ytitle(`"`: variable label country'"')
 graph export "C:\Users\Binati_Jacopo\Desktop\project\before_after-civi.png",replace
 
-**USE THIS PART FOR REGIONAL ANALYSIS. REMEMBER TO CLEAR AFTER TO KEEP WITH THE PREVIOUS DATA.
+
+
 egen avg_civi = mean(civicparticipation)
 tab avg_civi
 sort country year
@@ -214,4 +217,58 @@ xtline wjpruleoflawindexoverallscore avg_civi15 avg_civi21, i(region) t(year)
 
 tabstat avg_civi21 avg_civi15, by(region) statistics(count mean sd min max) save
 table avg_civi15 region
-*************************************************************************************************************
+/*
+Summary statistics: N, Mean, SD, Min, Max
+Group variable: region (Region)
+
+          region |  avg_c~21  avg_c~15
+-----------------+--------------------
+EU + EFTA + Nort |        24        24 
+                 |  .7429167       .75
+                 |  .1245681  .1013818
+                 |       .42       .51
+                 |       .94        .9
+-----------------+--------------------
+East Asia & Paci |        14        14
+                 |  .5528571  .5571429
+                 |  .1684056  .1925708
+                 |       .18       .21
+                 |       .84       .83
+-----------------+--------------------
+Eastern Europe & |        12        12
+                 |       .46  .5083333
+                 |  .1070259  .1357024
+                 |       .27       .24
+                 |       .62       .66
+-----------------+--------------------
+Latin America &  |        15        15
+                 |  .5733333  .6033333
+                 |  .1051982   .085077
+                 |       .33       .46
+                 |       .77       .78
+-----------------+--------------------
+Middle East & No |         7         7
+                 |  .3642857  .4742857
+                 |  .1671184  .1386671
+                 |       .16       .25
+                 |       .61       .65
+-----------------+--------------------
+      South Asia |         5         5
+                 |      .522      .582
+                 |   .121326  .0759605
+                 |       .31       .49
+                 |        .6       .67
+-----------------+--------------------
+Sub-Saharan Afri |        18        18
+                 |  .5105556  .5633333
+                 |  .1224491  .1422095
+                 |       .28       .23
+                 |        .7       .73
+-----------------+--------------------
+           Total |        95        95
+                 |  .5688421  .6033684
+                 |  .1702993  .1566512
+                 |       .16       .21
+                 |       .94        .9
+--------------------------------------
+*/
