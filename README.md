@@ -20,6 +20,12 @@ The regressions performed analyse the relationship between the average civic par
 The second regression is a diff-in-diff relating the variables treatment-after, treatment and after. 
 
 //The first regression analysis the impact of the variables taken into account in 2015, including average freedom, foundamental rights, due process, fundamental labour rights and the right to life and security on civic participation in the 94 countries. 
+The analysis showed how civic participation between 2015 and 2021 generally increased globally. In particular, we can conclude that in all regions with the exception of East Asia, there has been an overall average increase in civic participation. The most incident factor in this regard is certainly freedoms: in our case this variable takes into account 5 different types of freedoms. In the first regression for the year 2015, an increase of 0.1 units of freedoms corresponds to an increase of 0.129 in the score. the coefficient changes radically in 2021 showing how an increase of 0.1 units of freedoms corresponds to an increase of 0.134 in the score of civic participation.
+
+
+
+
+
 avg_freedom: The coefficient of 1.168089 suggests that, holding all other variables constant, a one-unit increase in avg_freedom is associated with a 1.168089 unit increase in avg_civi.
 
 fundamentalrights: The coefficient of -0.4952918 suggests that, holding all other variables constant, a one-unit increase in fundamentalrights is associated with a 0.4952918 unit decrease in avg_civi.
