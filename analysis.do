@@ -203,3 +203,15 @@ treatmentXafter |          0  (omitted)
 twoway line avg_civi15 year, by(region) legend(label(1 "2015") label(2 "2021"))
        xtitle("Year") ytitle("Civic Participation") ytitle(`"`: variable label country'"')
 graph export "C:\Users\Binati_Jacopo\Desktop\project\before_after-civi.png",replace
+
+**USE THIS PART FOR REGIONAL ANALYSIS. REMEMBER TO CLEAR AFTER TO KEEP WITH THE PREVIOUS DATA.
+egen avg_civi = mean(civicparticipation)
+tab avg_civi
+sort country year
+tab region
+*collapse (mean) avg_civi15 avg_civi21 avg_freedom15 avg_freedom21 year, by(region)
+xtline wjpruleoflawindexoverallscore avg_civi15 avg_civi21, i(region) t(year)
+
+tabstat avg_civi21 avg_civi15, by(region) statistics(count mean sd min max) save
+table avg_civi15 region
+*************************************************************************************************************
