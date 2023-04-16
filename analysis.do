@@ -41,7 +41,7 @@ gen treatment = civicparticipation if before
  replace treatment = treatment[_n-1] if after & country==country[_n-1]
 gen treatmentXafter = treatment*after
 
-* civicparticipation before and after 2019
+* civicparticipation before and after
 sort country_id year
 gen civicpart_bef = civicparticipation if before
  replace civicpart_bef = L.civicpart_bef if after
