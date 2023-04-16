@@ -18,3 +18,14 @@ the variables 'treated' and 'untreated' were created for the years.
 
 The regressions performed analyse the relationship between the average civic participation between 2015 and 2021 with the other confounders.
 The second regression is a diff-in-diff relating the variables treatment-after, treatment and after. 
+
+//The first regression analysis the impact of the variables taken into account in 2015, including average freedom, foundamental rights, due process, fundamental labour rights and the right to life and security on civic participation in the 94 countries. 
+avg_freedom: The coefficient of 1.168089 suggests that, holding all other variables constant, a one-unit increase in avg_freedom is associated with a 1.168089 unit increase in avg_civi.
+
+fundamentalrights: The coefficient of -0.4952918 suggests that, holding all other variables constant, a one-unit increase in fundamentalrights is associated with a 0.4952918 unit decrease in avg_civi.
+
+therighttolifeandsecurityofthepe: The coefficient of -0.1869234 suggests that, holding all other variables constant, a one-unit increase in therighttolifeandsecurityofthepe is associated with a 0.1869234 unit decrease in avg_civi.
+
+dueprocessofthelawandrightsofthe: The coefficient of 0.2804991 suggests that, holding all other variables constant, a one-unit increase in dueprocessofthelawandrightsofthe is associated with a 0.2804991 unit increase in avg_civi.
+
+fundamentallaborrightsareeffecti: The coefficient of 0.1707381 suggests that, holding all other variables constant, a one-unit increase in fundamentallaborrightsareeffecti is associated with a 0.1707381 unit increase in avg_civi.
