@@ -70,5 +70,4 @@ lab var id "ID of each country"
 *94 countries all over the world and each countries cover 9 years of observation 
 
 ********************************************************************
-*
-reg civicpart equal_treat if year == 2018, robust
+
