@@ -1,0 +1,860 @@
+﻿Country;Year;Country Code;Region;WJP Rule of Law Index: Overall Score;Civic participation;Fundamental Rights;Equal treatment and absence of discrimination;The right to life and security of the person is effectively guaranteed;Due process of the law and rights of the accused; Freedom of opinion and expression is effectively guaranteed;Freedom of belief and religion is effectively guaranteed;Freedom from arbitrary interference with privacy is effectively guaranteed;Freedom of assembly and association is effectively guaranteed;Fundamental labor rights are effectively guaranteed
+Albania;2013;ALB;Eastern Europe & Central Asia;0.49;0.25;0.63;0.65;0.67;0.51;0.62;0.77;0.52;0.72;0.58
+Albania;2014;ALB;Eastern Europe & Central Asia;0.49;0.35;0.58;0.67;0.65;0.44;0.56;0.77;0.4;0.66;0.52
+Albania;2015;ALB;Eastern Europe & Central Asia;0.52;0.59;0.6;0.6;0.68;0.51;0.58;0.74;0.48;0.68;0.53
+Albania;2016;ALB;Eastern Europe & Central Asia;0.5;0.47;0.6;0.56;0.67;0.6;0.56;0.85;0.56;0.56;0.45
+Albania;2018;ALB;Eastern Europe & Central Asia;0.51;0.47;0.63;0.58;0.73;0.62;0.57;0.89;0.65;0.57;0.47
+Albania;2019;ALB;Eastern Europe & Central Asia;0.51;0.46;0.61;0.59;0.69;0.57;0.55;0.82;0.63;0.56;0.49
+Albania;2020;ALB;Eastern Europe & Central Asia;0.5;0.44;0.59;0.59;0.71;0.53;0.53;0.79;0.56;0.51;0.49
+Albania;2021;ALB;Eastern Europe & Central Asia;0.49;0.43;0.58;0.58;0.69;0.52;0.51;0.77;0.56;0.5;0.48
+Albania;2022;ALB;Eastern Europe & Central Asia;0.49;0.42;0.59;0.58;0.72;0.51;0.51;0.76;0.6;0.51;0.49
+Argentina;2013;ARG;Latin America & Caribbean;0.51;0.48;0.63;0.65;0.74;0.58;0.54;0.72;0.58;0.69;0.55
+Argentina;2014;ARG;Latin America & Caribbean;0.5;0.45;0.67;0.66;0.82;0.47;0.64;0.8;0.7;0.67;0.56
+Argentina;2015;ARG;Latin America & Caribbean;0.52;0.62;0.66;0.62;0.79;0.54;0.64;0.82;0.61;0.71;0.58
+Argentina;2016;ARG;Latin America & Caribbean;0.55;0.7;0.69;0.63;0.75;0.61;0.73;0.75;0.65;0.78;0.66
+Argentina;2018;ARG;Latin America & Caribbean;0.58;0.73;0.72;0.64;0.8;0.61;0.77;0.79;0.72;0.8;0.64
+Argentina;2019;ARG;Latin America & Caribbean;0.58;0.69;0.7;0.65;0.8;0.58;0.71;0.75;0.73;0.76;0.65
+Argentina;2020;ARG;Latin America & Caribbean;0.58;0.68;0.7;0.65;0.79;0.57;0.7;0.76;0.69;0.77;0.65
+Argentina;2021;ARG;Latin America & Caribbean;0.56;0.65;0.69;0.65;0.82;0.57;0.67;0.76;0.66;0.73;0.65
+Argentina;2022;ARG;Latin America & Caribbean;0.55;0.69;0.68;0.62;0.73;0.55;0.71;0.77;0.64;0.78;0.64
+Australia;2013;AUS;East Asia & Pacific;0.83;0.81;0.84;0.61;0.9;0.81;0.89;0.84;0.93;0.97;0.79
+Australia;2014;AUS;East Asia & Pacific;0.8;0.69;0.82;0.65;0.89;0.76;0.87;0.83;0.9;0.89;0.76
+Australia;2015;AUS;East Asia & Pacific;0.8;0.8;0.82;0.63;0.9;0.8;0.85;0.88;0.88;0.89;0.73
+Australia;2016;AUS;East Asia & Pacific;0.81;0.82;0.81;0.65;0.91;0.8;0.83;0.84;0.84;0.87;0.71
+Australia;2018;AUS;East Asia & Pacific;0.81;0.82;0.81;0.67;0.92;0.77;0.83;0.81;0.84;0.85;0.76
+Australia;2019;AUS;East Asia & Pacific;0.8;0.79;0.79;0.69;0.88;0.76;0.8;0.83;0.84;0.82;0.74
+Australia;2020;AUS;East Asia & Pacific;0.8;0.78;0.79;0.68;0.9;0.77;0.79;0.84;0.84;0.82;0.72
+Australia;2021;AUS;East Asia & Pacific;0.79;0.77;0.78;0.66;0.89;0.77;0.77;0.84;0.81;0.8;0.68
+Australia;2022;AUS;East Asia & Pacific;0.79;0.77;0.78;0.67;0.89;0.76;0.79;0.83;0.8;0.81;0.72
+Austria;2013;AUT;EU + EFTA + North America;0.81;0.83;0.82;0.69;0.85;0.8;0.9;0.87;0.78;0.95;0.77
+Austria;2014;AUT;EU + EFTA + North America;0.82;0.83;0.87;0.74;0.92;0.86;0.92;0.84;0.94;0.92;0.81
+Austria;2015;AUT;EU + EFTA + North America;0.82;0.83;0.87;0.72;0.96;0.87;0.89;0.86;0.98;0.92;0.8
+Austria;2016;AUT;EU + EFTA + North America;0.83;0.88;0.88;0.71;0.96;0.87;0.89;0.88;0.98;0.93;0.82
+Austria;2018;AUT;EU + EFTA + North America;0.81;0.83;0.85;0.72;0.98;0.8;0.85;0.84;0.91;0.89;0.81
+Austria;2019;AUT;EU + EFTA + North America;0.82;0.83;0.85;0.73;0.97;0.82;0.85;0.85;0.91;0.89;0.81
+Austria;2020;AUT;EU + EFTA + North America;0.82;0.81;0.85;0.73;0.97;0.83;0.84;0.82;0.92;0.88;0.82
+Austria;2021;AUT;EU + EFTA + North America;0.81;0.8;0.85;0.73;0.95;0.85;0.84;0.83;0.95;0.88;0.81
+Austria;2022;AUT;EU + EFTA + North America;0.8;0.8;0.84;0.73;0.96;0.83;0.83;0.82;0.9;0.87;0.81
+Bangladesh;2013;BGD;South Asia;0.4;0.44;0.43;0.51;0.27;0.33;0.43;0.45;0.42;0.55;0.53
+Bangladesh;2014;BGD;South Asia;0.39;0.41;0.43;0.55;0.22;0.3;0.41;0.56;0.26;0.55;0.57
+Bangladesh;2015;BGD;South Asia;0.42;0.49;0.42;0.54;0.31;0.31;0.38;0.54;0.24;0.53;0.49
+Bangladesh;2016;BGD;South Asia;0.41;0.36;0.34;0.47;0.19;0.28;0.31;0.45;0.14;0.37;0.48
+Bangladesh;2018;BGD;South Asia;0.41;0.36;0.34;0.39;0.22;0.29;0.31;0.47;0.19;0.4;0.41
+Bangladesh;2019;BGD;South Asia;0.41;0.35;0.33;0.43;0.19;0.26;0.3;0.53;0.16;0.38;0.4
+Bangladesh;2020;BGD;South Asia;0.41;0.33;0.32;0.42;0.19;0.28;0.28;0.5;0.16;0.34;0.42
+Bangladesh;2021;BGD;South Asia;0.4;0.31;0.31;0.42;0.16;0.26;0.26;0.48;0.11;0.33;0.44
+Bangladesh;2022;BGD;South Asia;0.39;0.3;0.3;0.4;0.15;0.27;0.26;0.47;0.08;0.32;0.45
+Belarus;2013;BLR;Eastern Europe & Central Asia;0.53;0.33;0.45;0.71;0.5;0.55;0.26;0.66;0.04;0.35;0.55
+Belarus;2014;BLR;Eastern Europe & Central Asia;0.51;0.33;0.46;0.71;0.44;0.43;0.27;0.63;0.24;0.39;0.54
+Belarus;2015;BLR;Eastern Europe & Central Asia;0.53;0.36;0.46;0.76;0.45;0.5;0.23;0.61;0.23;0.36;0.56
+Belarus;2016;BLR;Eastern Europe & Central Asia;0.54;0.34;0.48;0.77;0.5;0.49;0.25;0.63;0.33;0.36;0.54
+Belarus;2018;BLR;Eastern Europe & Central Asia;0.51;0.31;0.47;0.72;0.59;0.46;0.24;0.6;0.29;0.35;0.47
+Belgium;2013;BEL;EU + EFTA + North America;0.75;0.65;0.81;0.78;0.89;0.76;0.77;0.8;0.88;0.8;0.84
+Belgium;2014;BEL;EU + EFTA + North America;0.76;0.65;0.83;0.79;0.95;0.77;0.82;0.8;0.82;0.86;0.82
+Belgium;2015;BEL;EU + EFTA + North America;0.77;0.79;0.84;0.78;0.95;0.77;0.84;0.83;0.83;0.89;0.85
+Belgium;2016;BEL;EU + EFTA + North America;0.79;0.83;0.84;0.76;0.98;0.84;0.81;0.8;0.89;0.86;0.79
+Belgium;2018;BEL;EU + EFTA + North America;0.77;0.83;0.83;0.76;0.95;0.79;0.8;0.83;0.86;0.85;0.78
+Belgium;2019;BEL;EU + EFTA + North America;0.79;0.83;0.84;0.78;0.95;0.8;0.81;0.84;0.9;0.86;0.79
+Belgium;2020;BEL;EU + EFTA + North America;0.79;0.82;0.84;0.78;0.95;0.79;0.8;0.82;0.9;0.85;0.81
+Belgium;2021;BEL;EU + EFTA + North America;0.79;0.81;0.84;0.8;0.94;0.78;0.8;0.84;0.9;0.85;0.82
+Belgium;2022;BEL;EU + EFTA + North America;0.79;0.81;0.84;0.78;0.95;0.79;0.81;0.84;0.89;0.86;0.81
+Bolivia;2013;BOL;Latin America & Caribbean;0.4;0.39;0.49;0.44;0.49;0.39;0.42;0.66;0.45;0.52;0.55
+Bolivia;2014;BOL;Latin America & Caribbean;0.39;0.45;0.48;0.47;0.45;0.35;0.45;0.64;0.45;0.53;0.52
+Bolivia;2015;BOL;Latin America & Caribbean;0.41;0.51;0.53;0.4;0.58;0.43;0.49;0.68;0.52;0.61;0.55
+Bolivia;2016;BOL;Latin America & Caribbean;0.4;0.5;0.5;0.4;0.55;0.41;0.48;0.68;0.42;0.56;0.51
+Bolivia;2018;BOL;Latin America & Caribbean;0.38;0.47;0.46;0.39;0.46;0.35;0.46;0.63;0.3;0.54;0.51
+Bolivia;2019;BOL;Latin America & Caribbean;0.38;0.46;0.47;0.42;0.47;0.33;0.45;0.64;0.37;0.52;0.53
+Bolivia;2020;BOL;Latin America & Caribbean;0.38;0.47;0.46;0.4;0.46;0.33;0.46;0.64;0.35;0.53;0.53
+Bolivia;2021;BOL;Latin America & Caribbean;0.39;0.48;0.47;0.39;0.43;0.34;0.48;0.63;0.4;0.55;0.52
+Bolivia;2022;BOL;Latin America & Caribbean;0.38;0.49;0.46;0.38;0.4;0.31;0.48;0.64;0.38;0.56;0.52
+Bosnia and Herzegovina;2013;BIH;Eastern Europe & Central Asia;0.57;0.43;0.67;0.64;0.72;0.7;0.56;0.72;0.68;0.65;0.69
+Bosnia and Herzegovina;2014;BIH;Eastern Europe & Central Asia;0.55;0.42;0.67;0.68;0.77;0.64;0.58;0.69;0.67;0.67;0.64
+Bosnia and Herzegovina;2015;BIH;Eastern Europe & Central Asia;0.57;0.58;0.66;0.62;0.78;0.64;0.61;0.66;0.58;0.68;0.67
+Bosnia and Herzegovina;2016;BIH;Eastern Europe & Central Asia;0.56;0.59;0.65;0.57;0.77;0.7;0.6;0.63;0.61;0.68;0.66
+Bosnia and Herzegovina;2018;BIH;Eastern Europe & Central Asia;0.53;0.45;0.59;0.6;0.71;0.63;0.44;0.64;0.55;0.56;0.61
+Bosnia and Herzegovina;2019;BIH;Eastern Europe & Central Asia;0.53;0.44;0.59;0.6;0.74;0.64;0.43;0.61;0.59;0.56;0.59
+Bosnia and Herzegovina;2020;BIH;Eastern Europe & Central Asia;0.52;0.44;0.59;0.6;0.7;0.63;0.44;0.64;0.52;0.55;0.64
+Bosnia and Herzegovina;2021;BIH;Eastern Europe & Central Asia;0.52;0.45;0.59;0.6;0.67;0.62;0.44;0.66;0.54;0.57;0.63
+Bosnia and Herzegovina;2022;BIH;Eastern Europe & Central Asia;0.52;0.45;0.6;0.6;0.7;0.63;0.44;0.66;0.55;0.57;0.63
+Botswana;2013;BWA;Sub-Saharan Africa;0.7;0.86;0.59;0.5;0.58;0.66;0.76;0.68;0.21;0.74;0.61
+Botswana;2014;BWA;Sub-Saharan Africa;0.67;0.8;0.57;0.51;0.53;0.58;0.76;0.6;0.29;0.72;0.55
+Botswana;2015;BWA;Sub-Saharan Africa;0.64;0.72;0.56;0.58;0.53;0.54;0.61;0.65;0.28;0.7;0.61
+Botswana;2016;BWA;Sub-Saharan Africa;0.58;0.57;0.51;0.61;0.46;0.47;0.5;0.61;0.31;0.63;0.46
+Botswana;2018;BWA;Sub-Saharan Africa;0.58;0.54;0.57;0.67;0.59;0.54;0.48;0.61;0.47;0.61;0.57
+Botswana;2019;BWA;Sub-Saharan Africa;0.59;0.61;0.58;0.67;0.58;0.56;0.57;0.59;0.45;0.64;0.56
+Botswana;2020;BWA;Sub-Saharan Africa;0.6;0.64;0.58;0.65;0.6;0.58;0.59;0.6;0.39;0.68;0.58
+Botswana;2021;BWA;Sub-Saharan Africa;0.59;0.62;0.58;0.63;0.64;0.54;0.59;0.62;0.41;0.66;0.52
+Botswana;2022;BWA;Sub-Saharan Africa;0.59;0.62;0.59;0.62;0.65;0.57;0.6;0.61;0.44;0.67;0.54
+Brazil;2013;BRA;Latin America & Caribbean;0.58;0.52;0.69;0.69;0.66;0.44;0.73;0.83;0.73;0.76;0.73
+Brazil;2014;BRA;Latin America & Caribbean;0.54;0.45;0.66;0.66;0.61;0.37;0.74;0.81;0.66;0.76;0.65
+Brazil;2015;BRA;Latin America & Caribbean;0.54;0.62;0.61;0.6;0.58;0.36;0.69;0.73;0.56;0.69;0.64
+Brazil;2016;BRA;Latin America & Caribbean;0.55;0.64;0.61;0.6;0.57;0.38;0.68;0.7;0.62;0.69;0.66
+Brazil;2018;BRA;Latin America & Caribbean;0.54;0.57;0.57;0.54;0.55;0.38;0.59;0.69;0.56;0.65;0.56
+Brazil;2019;BRA;Latin America & Caribbean;0.53;0.57;0.55;0.56;0.51;0.36;0.59;0.65;0.54;0.65;0.51
+Brazil;2020;BRA;Latin America & Caribbean;0.52;0.54;0.51;0.51;0.48;0.35;0.54;0.59;0.52;0.61;0.47
+Brazil;2021;BRA;Latin America & Caribbean;0.5;0.52;0.48;0.48;0.4;0.34;0.52;0.57;0.49;0.58;0.45
+Brazil;2022;BRA;Latin America & Caribbean;0.49;0.53;0.48;0.47;0.4;0.35;0.53;0.52;0.49;0.61;0.47
+Bulgaria;2013;BGR;Eastern Europe & Central Asia;0.55;0.58;0.68;0.61;0.74;0.51;0.69;0.76;0.64;0.84;0.64
+Bulgaria;2014;BGR;EU + EFTA + North America;0.53;0.48;0.65;0.7;0.75;0.47;0.67;0.8;0.54;0.74;0.57
+Bulgaria;2015;BGR;EU + EFTA + North America;0.55;0.62;0.67;0.67;0.76;0.56;0.66;0.79;0.48;0.73;0.67
+Bulgaria;2016;BGR;EU + EFTA + North America;0.54;0.63;0.64;0.6;0.72;0.55;0.65;0.76;0.47;0.7;0.66
+Bulgaria;2018;BGR;EU + EFTA + North America;0.53;0.59;0.6;0.61;0.63;0.5;0.62;0.73;0.37;0.67;0.66
+Bulgaria;2019;BGR;EU + EFTA + North America;0.54;0.58;0.6;0.58;0.63;0.55;0.61;0.72;0.39;0.67;0.67
+Bulgaria;2020;BGR;EU + EFTA + North America;0.55;0.6;0.61;0.59;0.64;0.58;0.61;0.72;0.4;0.67;0.63
+Bulgaria;2021;BGR;EU + EFTA + North America;0.54;0.59;0.6;0.58;0.66;0.55;0.6;0.72;0.38;0.66;0.61
+Bulgaria;2022;BGR;EU + EFTA + North America;0.55;0.59;0.6;0.59;0.62;0.53;0.61;0.73;0.41;0.66;0.6
+Burkina Faso;2013;BFA;Sub-Saharan Africa;0.53;0.44;0.59;0.7;0.49;0.38;0.51;0.8;0.4;0.71;0.7
+Burkina Faso;2014;BFA;Sub-Saharan Africa;0.51;0.44;0.58;0.72;0.51;0.37;0.52;0.79;0.43;0.72;0.59
+Burkina Faso;2015;BFA;Sub-Saharan Africa;0.47;0.57;0.55;0.66;0.47;0.41;0.54;0.75;0.29;0.68;0.61
+Burkina Faso;2016;BFA;Sub-Saharan Africa;0.48;0.61;0.56;0.68;0.51;0.44;0.57;0.72;0.34;0.7;0.53
+Burkina Faso;2018;BFA;Sub-Saharan Africa;0.51;0.6;0.6;0.71;0.65;0.51;0.62;0.72;0.38;0.67;0.52
+Burkina Faso;2019;BFA;Sub-Saharan Africa;0.51;0.58;0.57;0.67;0.57;0.47;0.61;0.72;0.37;0.66;0.51
+Burkina Faso;2020;BFA;Sub-Saharan Africa;0.51;0.59;0.57;0.66;0.57;0.47;0.61;0.69;0.36;0.66;0.52
+Burkina Faso;2021;BFA;Sub-Saharan Africa;0.5;0.59;0.56;0.67;0.5;0.49;0.6;0.69;0.34;0.65;0.54
+Burkina Faso;2022;BFA;Sub-Saharan Africa;0.49;0.58;0.55;0.65;0.48;0.47;0.6;0.68;0.33;0.64;0.54
+Cameroon;2013;CMR;Sub-Saharan Africa;0.35;0.27;0.42;0.4;0.43;0.28;0.36;0.63;0.35;0.52;0.39
+Cameroon;2014;CMR;Sub-Saharan Africa;0.39;0.31;0.46;0.5;0.42;0.31;0.46;0.61;0.38;0.6;0.4
+Cameroon;2015;CMR;Sub-Saharan Africa;0.4;0.51;0.5;0.47;0.47;0.37;0.49;0.67;0.42;0.62;0.45
+Cameroon;2016;CMR;Sub-Saharan Africa;0.37;0.42;0.43;0.49;0.38;0.38;0.41;0.71;0.09;0.53;0.46
+Cameroon;2018;CMR;Sub-Saharan Africa;0.37;0.41;0.43;0.49;0.31;0.33;0.37;0.74;0.15;0.51;0.51
+Cameroon;2019;CMR;Sub-Saharan Africa;0.38;0.41;0.39;0.44;0.26;0.34;0.39;0.6;0.18;0.49;0.43
+Cameroon;2020;CMR;Sub-Saharan Africa;0.36;0.39;0.36;0.45;0.18;0.29;0.36;0.6;0.07;0.46;0.46
+Cameroon;2021;CMR;Sub-Saharan Africa;0.35;0.38;0.36;0.46;0.18;0.32;0.36;0.59;0.08;0.45;0.47
+Cameroon;2022;CMR;Sub-Saharan Africa;0.36;0.38;0.36;0.44;0.19;0.31;0.35;0.58;0.09;0.44;0.46
+Canada;2013;CAN;EU + EFTA + North America;0.79;0.82;0.78;0.62;0.88;0.76;0.76;0.87;0.85;0.82;0.67
+Canada;2014;CAN;EU + EFTA + North America;0.78;0.81;0.77;0.62;0.85;0.74;0.8;0.84;0.78;0.85;0.65
+Canada;2015;CAN;EU + EFTA + North America;0.78;0.81;0.79;0.65;0.9;0.74;0.82;0.85;0.77;0.88;0.72
+Canada;2016;CAN;EU + EFTA + North America;0.81;0.87;0.82;0.68;0.95;0.78;0.85;0.88;0.82;0.89;0.73
+Canada;2018;CAN;EU + EFTA + North America;0.81;0.84;0.82;0.69;0.95;0.78;0.85;0.84;0.86;0.86;0.77
+Canada;2019;CAN;EU + EFTA + North America;0.81;0.85;0.83;0.68;0.95;0.79;0.86;0.85;0.88;0.88;0.74
+Canada;2020;CAN;EU + EFTA + North America;0.81;0.84;0.82;0.68;0.94;0.78;0.85;0.82;0.89;0.87;0.73
+Canada;2021;CAN;EU + EFTA + North America;0.8;0.84;0.82;0.65;0.93;0.77;0.84;0.83;0.89;0.87;0.74
+Canada;2022;CAN;EU + EFTA + North America;0.8;0.84;0.81;0.62;0.92;0.78;0.85;0.83;0.91;0.87;0.73
+Chile;2013;CHL;Latin America & Caribbean;0.69;0.52;0.73;0.57;0.84;0.61;0.74;0.79;0.82;0.77;0.69
+Chile;2014;CHL;Latin America & Caribbean;0.68;0.48;0.74;0.6;0.83;0.61;0.77;0.83;0.84;0.8;0.61
+Chile;2015;CHL;Latin America & Caribbean;0.68;0.73;0.74;0.51;0.85;0.62;0.79;0.81;0.86;0.83;0.66
+Chile;2016;CHL;Latin America & Caribbean;0.68;0.76;0.75;0.53;0.86;0.63;0.79;0.8;0.86;0.83;0.69
+Chile;2018;CHL;Latin America & Caribbean;0.67;0.68;0.73;0.57;0.85;0.63;0.72;0.78;0.84;0.74;0.71
+Chile;2019;CHL;Latin America & Caribbean;0.68;0.7;0.73;0.54;0.86;0.64;0.74;0.79;0.83;0.75;0.7
+Chile;2020;CHL;Latin America & Caribbean;0.67;0.67;0.72;0.55;0.83;0.63;0.72;0.79;0.85;0.73;0.7
+Chile;2021;CHL;Latin America & Caribbean;0.66;0.68;0.72;0.57;0.77;0.62;0.72;0.77;0.82;0.74;0.71
+Chile;2022;CHL;Latin America & Caribbean;0.66;0.68;0.73;0.58;0.81;0.62;0.72;0.77;0.83;0.74;0.73
+China;2013;CHN;East Asia & Pacific;0.48;0.23;0.35;0.6;0.46;0.49;0.1;0.16;0.34;0.13;0.55
+China;2014;CHN;East Asia & Pacific;0.45;0.24;0.31;0.53;0.39;0.46;0.08;0.2;0.36;0.17;0.32
+China;2015;CHN;East Asia & Pacific;0.48;0.21;0.32;0.49;0.48;0.48;0.13;0.23;0.22;0.19;0.31
+China;2016;CHN;East Asia & Pacific;0.48;0.21;0.32;0.45;0.48;0.51;0.14;0.3;0.22;0.18;0.3
+China;2018;CHN;East Asia & Pacific;0.5;0.21;0.31;0.43;0.45;0.51;0.14;0.3;0.22;0.18;0.27
+China;2019;CHN;East Asia & Pacific;0.49;0.21;0.32;0.45;0.45;0.51;0.12;0.22;0.3;0.17;0.32
+China;2020;CHN;East Asia & Pacific;0.48;0.22;0.29;0.46;0.34;0.48;0.14;0.18;0.23;0.17;0.31
+China;2021;CHN;East Asia & Pacific;0.47;0.18;0.27;0.46;0.33;0.52;0.11;0.16;0.14;0.11;0.31
+China;2022;CHN;East Asia & Pacific;0.47;0.18;0.26;0.45;0.32;0.49;0.11;0.16;0.15;0.1;0.33
+Colombia;2013;COL;Latin America & Caribbean;0.49;0.55;0.55;0.54;0.47;0.43;0.61;0.65;0.48;0.64;0.56
+Colombia;2014;COL;Latin America & Caribbean;0.49;0.52;0.55;0.54;0.54;0.43;0.59;0.67;0.55;0.63;0.41
+Colombia;2015;COL;Latin America & Caribbean;0.5;0.58;0.55;0.54;0.57;0.42;0.59;0.66;0.54;0.62;0.43
+Colombia;2016;COL;Latin America & Caribbean;0.51;0.6;0.55;0.5;0.55;0.43;0.61;0.74;0.52;0.65;0.43
+Colombia;2018;COL;Latin America & Caribbean;0.5;0.59;0.56;0.51;0.57;0.42;0.59;0.68;0.5;0.64;0.53
+Colombia;2019;COL;Latin America & Caribbean;0.5;0.56;0.53;0.54;0.5;0.4;0.56;0.63;0.49;0.61;0.51
+Colombia;2020;COL;Latin America & Caribbean;0.5;0.56;0.53;0.54;0.5;0.43;0.56;0.63;0.49;0.6;0.51
+Colombia;2021;COL;Latin America & Caribbean;0.49;0.55;0.51;0.48;0.48;0.39;0.55;0.61;0.49;0.59;0.47
+Colombia;2022;COL;Latin America & Caribbean;0.48;0.52;0.5;0.46;0.5;0.38;0.51;0.62;0.49;0.56;0.46
+Cote d'Ivoire;2013;CIV;Sub-Saharan Africa;0.45;0.51;0.5;0.65;0.28;0.29;0.46;0.77;0.25;0.64;0.67
+Cote d'Ivoire;2014;CIV;Sub-Saharan Africa;0.46;0.42;0.5;0.66;0.26;0.33;0.46;0.86;0.32;0.6;0.48
+Cote d'Ivoire;2015;CIV;Sub-Saharan Africa;0.47;0.56;0.47;0.62;0.27;0.33;0.5;0.67;0.2;0.64;0.57
+Cote d'Ivoire;2016;CIV;Sub-Saharan Africa;0.46;0.54;0.45;0.59;0.25;0.3;0.45;0.68;0.08;0.61;0.61
+Cote d'Ivoire;2018;CIV;Sub-Saharan Africa;0.47;0.47;0.46;0.58;0.35;0.41;0.37;0.75;0.14;0.58;0.51
+Cote d'Ivoire;2019;CIV;Sub-Saharan Africa;0.46;0.46;0.46;0.6;0.33;0.38;0.37;0.69;0.13;0.58;0.6
+Cote d'Ivoire;2020;CIV;Sub-Saharan Africa;0.46;0.45;0.45;0.6;0.31;0.38;0.36;0.69;0.11;0.57;0.6
+Cote d'Ivoire;2021;CIV;Sub-Saharan Africa;0.45;0.44;0.45;0.6;0.29;0.38;0.33;0.73;0.09;0.54;0.62
+Cote d'Ivoire;2022;CIV;Sub-Saharan Africa;0.45;0.43;0.45;0.63;0.25;0.38;0.33;0.72;0.12;0.54;0.63
+Croatia;2013;HRV;Eastern Europe & Central Asia;0.58;0.43;0.67;0.66;0.73;0.66;0.69;0.67;0.5;0.74;0.71
+Croatia;2014;HRV;EU + EFTA + North America;0.57;0.38;0.64;0.68;0.65;0.59;0.62;0.72;0.4;0.75;0.74
+Croatia;2015;HRV;EU + EFTA + North America;0.6;0.63;0.67;0.64;0.77;0.62;0.63;0.68;0.51;0.76;0.78
+Croatia;2016;HRV;EU + EFTA + North America;0.61;0.66;0.69;0.61;0.79;0.63;0.69;0.68;0.64;0.78;0.73
+Croatia;2018;HRV;EU + EFTA + North America;0.61;0.66;0.67;0.62;0.73;0.6;0.68;0.68;0.56;0.76;0.71
+Croatia;2019;HRV;EU + EFTA + North America;0.61;0.64;0.65;0.6;0.71;0.62;0.64;0.68;0.49;0.75;0.7
+Croatia;2020;HRV;EU + EFTA + North America;0.61;0.63;0.67;0.62;0.72;0.65;0.63;0.7;0.56;0.75;0.69
+Croatia;2021;HRV;EU + EFTA + North America;0.61;0.63;0.67;0.62;0.74;0.64;0.63;0.7;0.59;0.75;0.7
+Croatia;2022;HRV;EU + EFTA + North America;0.61;0.63;0.67;0.59;0.74;0.66;0.63;0.69;0.6;0.74;0.7
+Czech Republic;2013;CZE;Eastern Europe & Central Asia;0.67;0.49;0.79;0.72;0.9;0.77;0.74;0.8;0.83;0.81;0.71
+Czech Republic;2014;CZE;EU + EFTA + North America;0.67;0.46;0.8;0.77;0.92;0.78;0.76;0.8;0.87;0.82;0.68
+Czech Republic;2015;CZE;EU + EFTA + North America;0.72;0.75;0.8;0.77;0.92;0.8;0.78;0.74;0.83;0.84;0.68
+Czech Republic;2016;CZE;EU + EFTA + North America;0.75;0.79;0.81;0.77;0.91;0.83;0.79;0.85;0.76;0.85;0.73
+Czech Republic;2018;CZE;EU + EFTA + North America;0.74;0.69;0.8;0.8;0.97;0.79;0.72;0.75;0.85;0.75;0.75
+Czech Republic;2019;CZE;EU + EFTA + North America;0.73;0.7;0.78;0.71;0.96;0.77;0.74;0.78;0.79;0.79;0.73
+Czech Republic;2020;CZE;EU + EFTA + North America;0.73;0.71;0.79;0.71;0.95;0.81;0.76;0.78;0.78;0.8;0.74
+Czech Republic;2021;CZE;EU + EFTA + North America;0.73;0.7;0.79;0.71;0.94;0.8;0.74;0.8;0.77;0.79;0.75
+Czech Republic;2022;CZE;EU + EFTA + North America;0.73;0.71;0.78;0.72;0.94;0.79;0.75;0.78;0.75;0.8;0.74
+Denmark;2013;DNK;EU + EFTA + North America;0.88;0.82;0.91;0.8;0.96;0.91;0.95;0.86;0.94;0.94;0.92
+Denmark;2014;DNK;EU + EFTA + North America;0.88;0.76;0.9;0.83;0.96;0.93;0.95;0.85;0.9;0.94;0.85
+Denmark;2015;DNK;EU + EFTA + North America;0.87;0.89;0.91;0.81;0.94;0.89;0.97;0.87;0.87;0.97;0.93
+Denmark;2016;DNK;EU + EFTA + North America;0.89;0.94;0.92;0.78;1,00;0.92;0.97;0.83;0.96;0.97;0.94
+Denmark;2018;DNK;EU + EFTA + North America;0.89;0.93;0.9;0.74;0.98;0.85;0.97;0.79;0.96;0.98;0.95
+Denmark;2019;DNK;EU + EFTA + North America;0.9;0.94;0.92;0.77;1,00;0.88;0.96;0.81;0.98;0.98;0.95
+Denmark;2020;DNK;EU + EFTA + North America;0.9;0.94;0.92;0.79;0.99;0.88;0.97;0.8;0.98;0.98;0.95
+Denmark;2021;DNK;EU + EFTA + North America;0.9;0.94;0.92;0.78;0.99;0.89;0.96;0.82;0.99;0.98;0.95
+Denmark;2022;DNK;EU + EFTA + North America;0.9;0.95;0.92;0.78;1,00;0.9;0.97;0.8;0.98;0.98;0.95
+Dominican Republic;2013;DOM;Latin America & Caribbean;0.51;0.36;0.67;0.66;0.57;0.55;0.73;0.77;0.56;0.82;0.71
+Dominican Republic;2014;DOM;Latin America & Caribbean;0.47;0.37;0.6;0.6;0.49;0.46;0.68;0.75;0.51;0.72;0.53
+Dominican Republic;2015;DOM;Latin America & Caribbean;0.48;0.62;0.61;0.6;0.58;0.44;0.67;0.7;0.53;0.72;0.69
+Dominican Republic;2016;DOM;Latin America & Caribbean;0.47;0.56;0.6;0.54;0.64;0.44;0.62;0.71;0.58;0.65;0.65
+Dominican Republic;2018;DOM;Latin America & Caribbean;0.47;0.56;0.59;0.49;0.6;0.43;0.64;0.72;0.54;0.66;0.63
+Dominican Republic;2019;DOM;Latin America & Caribbean;0.46;0.57;0.56;0.49;0.53;0.4;0.63;0.7;0.51;0.68;0.58
+Dominican Republic;2020;DOM;Latin America & Caribbean;0.48;0.59;0.58;0.52;0.59;0.43;0.63;0.67;0.53;0.68;0.59
+Dominican Republic;2021;DOM;Latin America & Caribbean;0.48;0.59;0.57;0.52;0.63;0.44;0.63;0.64;0.5;0.68;0.57
+Dominican Republic;2022;DOM;Latin America & Caribbean;0.48;0.61;0.57;0.5;0.57;0.4;0.65;0.64;0.47;0.69;0.59
+Ecuador;2013;ECU;Latin America & Caribbean;0.46;0.44;0.56;0.57;0.66;0.45;0.51;0.61;0.47;0.6;0.61
+Ecuador;2014;ECU;Latin America & Caribbean;0.45;0.47;0.54;0.56;0.56;0.42;0.52;0.73;0.42;0.59;0.54
+Ecuador;2015;ECU;Latin America & Caribbean;0.47;0.46;0.53;0.52;0.56;0.51;0.44;0.78;0.41;0.49;0.56
+Ecuador;2016;ECU;Latin America & Caribbean;0.45;0.46;0.51;0.5;0.52;0.49;0.43;0.73;0.38;0.51;0.55
+Ecuador;2018;ECU;Latin America & Caribbean;0.47;0.49;0.51;0.49;0.52;0.46;0.48;0.66;0.33;0.54;0.57
+Ecuador;2019;ECU;Latin America & Caribbean;0.48;0.51;0.49;0.45;0.47;0.42;0.5;0.62;0.32;0.55;0.56
+Ecuador;2020;ECU;Latin America & Caribbean;0.49;0.52;0.52;0.45;0.53;0.42;0.53;0.65;0.42;0.58;0.57
+Ecuador;2021;ECU;Latin America & Caribbean;0.48;0.54;0.52;0.45;0.52;0.43;0.55;0.65;0.39;0.6;0.59
+Ecuador;2022;ECU;Latin America & Caribbean;0.48;0.53;0.53;0.44;0.61;0.42;0.52;0.63;0.43;0.6;0.58
+Egypt. Arab Rep.;2013;EGY;Middle East & North Africa;0.5;0.53;0.43;0.47;0.36;0.31;0.61;0.32;0.32;0.64;0.44
+Egypt. Arab Rep.;2014;EGY;Middle East & North Africa;0.45;0.51;0.39;0.54;0.33;0.28;0.43;0.23;0.32;0.6;0.4
+Egypt. Arab Rep.;2015;EGY;Middle East & North Africa;0.44;0.52;0.32;0.56;0.3;0.28;0.22;0.29;0.11;0.46;0.31
+Egypt. Arab Rep.;2016;EGY;Middle East & North Africa;0.37;0.17;0.29;0.52;0.27;0.31;0.11;0.34;0.14;0.35;0.31
+Egypt. Arab Rep.;2018;EGY;Middle East & North Africa;0.36;0.22;0.3;0.48;0.32;0.35;0.16;0.3;0.22;0.26;0.33
+Egypt. Arab Rep.;2019;EGY;Middle East & North Africa;0.36;0.18;0.29;0.5;0.31;0.36;0.09;0.22;0.25;0.23;0.39
+Egypt. Arab Rep.;2020;EGY;Middle East & North Africa;0.36;0.16;0.28;0.51;0.2;0.34;0.06;0.26;0.21;0.21;0.42
+Egypt. Arab Rep.;2021;EGY;Middle East & North Africa;0.35;0.16;0.24;0.47;0.13;0.29;0.06;0.2;0.2;0.21;0.39
+Egypt. Arab Rep.;2022;EGY;Middle East & North Africa;0.35;0.17;0.25;0.42;0.17;0.29;0.08;0.21;0.2;0.22;0.37
+El Salvador;2013;SLV;Latin America & Caribbean;0.47;0.39;0.58;0.54;0.55;0.27;0.64;0.8;0.5;0.72;0.61
+El Salvador;2014;SLV;Latin America & Caribbean;0.48;0.41;0.62;0.6;0.76;0.46;0.63;0.75;0.61;0.63;0.5
+El Salvador;2015;SLV;Latin America & Caribbean;0.51;0.57;0.62;0.55;0.78;0.42;0.63;0.8;0.63;0.64;0.53
+El Salvador;2016;SLV;Latin America & Caribbean;0.49;0.55;0.57;0.48;0.72;0.44;0.59;0.75;0.46;0.62;0.49
+El Salvador;2018;SLV;Latin America & Caribbean;0.48;0.51;0.53;0.48;0.6;0.37;0.56;0.64;0.56;0.58;0.48
+El Salvador;2019;SLV;Latin America & Caribbean;0.48;0.49;0.52;0.51;0.61;0.32;0.55;0.63;0.56;0.55;0.47
+El Salvador;2020;SLV;Latin America & Caribbean;0.49;0.51;0.54;0.52;0.61;0.35;0.56;0.64;0.54;0.57;0.51
+El Salvador;2021;SLV;Latin America & Caribbean;0.48;0.48;0.5;0.5;0.55;0.34;0.51;0.61;0.49;0.53;0.52
+El Salvador;2022;SLV;Latin America & Caribbean;0.46;0.45;0.47;0.52;0.5;0.29;0.48;0.57;0.4;0.48;0.53
+Estonia;2013;EST;Eastern Europe & Central Asia;0.76;0.66;0.79;0.8;0.88;0.75;0.77;0.83;0.78;0.78;0.71
+Estonia;2014;EST;EU + EFTA + North America;0.76;0.66;0.8;0.85;0.93;0.77;0.79;0.81;0.77;0.8;0.65
+Estonia;2015;EST;EU + EFTA + North America;0.77;0.75;0.81;0.84;0.92;0.77;0.79;0.85;0.76;0.84;0.72
+Estonia;2016;EST;EU + EFTA + North America;0.79;0.81;0.8;0.83;0.89;0.75;0.78;0.8;0.76;0.85;0.73
+Estonia;2018;EST;EU + EFTA + North America;0.8;0.79;0.82;0.82;0.95;0.75;0.79;0.78;0.93;0.84;0.72
+Estonia;2019;EST;EU + EFTA + North America;0.81;0.79;0.83;0.81;0.94;0.78;0.8;0.8;0.92;0.84;0.71
+Estonia;2020;EST;EU + EFTA + North America;0.81;0.8;0.82;0.8;0.94;0.79;0.79;0.82;0.9;0.84;0.67
+Estonia;2021;EST;EU + EFTA + North America;0.81;0.78;0.82;0.81;0.94;0.78;0.79;0.82;0.9;0.83;0.68
+Estonia;2022;EST;EU + EFTA + North America;0.82;0.79;0.83;0.82;0.93;0.81;0.79;0.83;0.88;0.84;0.71
+Ethiopia;2013;ETH;Sub-Saharan Africa;0.42;0.34;0.41;0.48;0.46;0.41;0.25;0.67;0.33;0.3;0.35
+Ethiopia;2014;ETH;Sub-Saharan Africa;0.42;0.35;0.36;0.51;0.3;0.39;0.26;0.61;0.21;0.31;0.31
+Ethiopia;2015;ETH;Sub-Saharan Africa;0.42;0.3;0.32;0.44;0.23;0.38;0.28;0.5;0.09;0.28;0.35
+Ethiopia;2016;ETH;Sub-Saharan Africa;0.38;0.23;0.29;0.34;0.23;0.32;0.27;0.54;0.09;0.26;0.31
+Ethiopia;2018;ETH;Sub-Saharan Africa;0.38;0.2;0.31;0.43;0.27;0.33;0.22;0.48;0.19;0.22;0.33
+Ethiopia;2019;ETH;Sub-Saharan Africa;0.39;0.21;0.29;0.44;0.19;0.32;0.23;0.5;0.14;0.22;0.31
+Ethiopia;2020;ETH;Sub-Saharan Africa;0.41;0.29;0.35;0.47;0.25;0.33;0.31;0.51;0.21;0.32;0.37
+Ethiopia;2021;ETH;Sub-Saharan Africa;0.41;0.3;0.33;0.42;0.24;0.33;0.3;0.48;0.17;0.33;0.34
+Ethiopia;2022;ETH;Sub-Saharan Africa;0.39;0.29;0.32;0.4;0.23;0.32;0.29;0.45;0.18;0.33;0.35
+Finland;2013;FIN;EU + EFTA + North America;0.87;0.77;0.9;0.86;0.99;0.91;0.88;0.81;1,00;0.9;0.86
+Finland;2014;FIN;EU + EFTA + North America;0.84;0.69;0.89;0.87;1,00;0.9;0.9;0.77;1,00;0.9;0.81
+Finland;2015;FIN;EU + EFTA + North America;0.85;0.83;0.91;0.87;0.96;0.92;0.91;0.87;1,00;0.91;0.85
+Finland;2016;FIN;EU + EFTA + North America;0.87;0.93;0.92;0.86;0.96;0.91;0.93;0.91;0.99;0.94;0.84
+Finland;2018;FIN;EU + EFTA + North America;0.87;0.89;0.91;0.87;0.95;0.92;0.91;0.87;0.98;0.93;0.85
+Finland;2019;FIN;EU + EFTA + North America;0.87;0.89;0.92;0.88;1,00;0.92;0.91;0.86;0.98;0.93;0.87
+Finland;2020;FIN;EU + EFTA + North America;0.87;0.88;0.91;0.85;1,00;0.91;0.89;0.83;0.97;0.92;0.87
+Finland;2021;FIN;EU + EFTA + North America;0.88;0.89;0.9;0.85;0.95;0.91;0.9;0.84;0.98;0.92;0.86
+Finland;2022;FIN;EU + EFTA + North America;0.87;0.89;0.89;0.84;0.95;0.91;0.89;0.86;0.94;0.92;0.85
+France;2013;FRA;EU + EFTA + North America;0.76;0.87;0.79;0.69;0.79;0.74;0.83;0.83;0.68;0.97;0.76
+France;2014;FRA;EU + EFTA + North America;0.74;0.74;0.76;0.66;0.78;0.71;0.82;0.84;0.7;0.9;0.7
+France;2015;FRA;EU + EFTA + North America;0.74;0.77;0.78;0.69;0.84;0.73;0.82;0.82;0.72;0.88;0.76
+France;2016;FRA;EU + EFTA + North America;0.72;0.77;0.75;0.69;0.8;0.69;0.78;0.79;0.66;0.83;0.75
+France;2018;FRA;EU + EFTA + North America;0.74;0.78;0.72;0.61;0.78;0.69;0.76;0.78;0.58;0.84;0.75
+France;2019;FRA;EU + EFTA + North America;0.74;0.75;0.74;0.63;0.84;0.68;0.73;0.74;0.71;0.82;0.79
+France;2020;FRA;EU + EFTA + North America;0.73;0.74;0.73;0.65;0.84;0.67;0.71;0.73;0.67;0.81;0.79
+France;2021;FRA;EU + EFTA + North America;0.72;0.73;0.71;0.62;0.76;0.65;0.71;0.73;0.64;0.81;0.78
+France;2022;FRA;EU + EFTA + North America;0.73;0.74;0.74;0.66;0.84;0.67;0.72;0.73;0.68;0.82;0.77
+Georgia;2013;GEO;Eastern Europe & Central Asia;0.63;0.35;0.61;0.77;0.66;0.56;0.58;0.68;0.38;0.6;0.63
+Georgia;2014;GEO;Eastern Europe & Central Asia;0.6;0.46;0.58;0.76;0.58;0.55;0.64;0.6;0.35;0.66;0.5
+Georgia;2015;GEO;Eastern Europe & Central Asia;0.65;0.66;0.64;0.75;0.69;0.55;0.74;0.62;0.39;0.74;0.64
+Georgia;2016;GEO;Eastern Europe & Central Asia;0.65;0.69;0.68;0.73;0.77;0.57;0.73;0.68;0.5;0.77;0.67
+Georgia;2018;GEO;Eastern Europe & Central Asia;0.61;0.62;0.61;0.61;0.73;0.57;0.67;0.63;0.4;0.69;0.59
+Georgia;2019;GEO;Eastern Europe & Central Asia;0.61;0.62;0.62;0.57;0.73;0.59;0.68;0.62;0.45;0.69;0.6
+Georgia;2020;GEO;Eastern Europe & Central Asia;0.6;0.61;0.61;0.58;0.73;0.59;0.66;0.63;0.43;0.7;0.56
+Georgia;2021;GEO;Eastern Europe & Central Asia;0.61;0.62;0.63;0.58;0.75;0.6;0.67;0.64;0.5;0.7;0.57
+Georgia;2022;GEO;Eastern Europe & Central Asia;0.6;0.61;0.62;0.58;0.72;0.59;0.66;0.65;0.47;0.69;0.56
+Germany;2013;DEU;EU + EFTA + North America;0.79;0.72;0.8;0.77;0.89;0.77;0.8;0.81;0.78;0.81;0.79
+Germany;2014;DEU;EU + EFTA + North America;0.8;0.72;0.84;0.78;0.89;0.78;0.9;0.85;0.79;0.91;0.82
+Germany;2015;DEU;EU + EFTA + North America;0.81;0.85;0.87;0.76;0.92;0.83;0.91;0.86;0.84;0.93;0.87
+Germany;2016;DEU;EU + EFTA + North America;0.83;0.88;0.85;0.77;0.93;0.83;0.87;0.85;0.81;0.91;0.86
+Germany;2018;DEU;EU + EFTA + North America;0.83;0.88;0.85;0.75;0.94;0.83;0.86;0.85;0.81;0.9;0.86
+Germany;2019;DEU;EU + EFTA + North America;0.84;0.86;0.85;0.78;0.94;0.82;0.85;0.84;0.79;0.9;0.85
+Germany;2020;DEU;EU + EFTA + North America;0.84;0.86;0.85;0.78;0.95;0.83;0.85;0.84;0.81;0.9;0.85
+Germany;2021;DEU;EU + EFTA + North America;0.84;0.86;0.85;0.78;0.95;0.84;0.84;0.85;0.82;0.9;0.84
+Germany;2022;DEU;EU + EFTA + North America;0.83;0.86;0.85;0.78;0.95;0.83;0.84;0.85;0.83;0.9;0.84
+Ghana;2013;GHA;Sub-Saharan Africa;0.59;0.7;0.72;0.72;0.63;0.48;0.85;0.82;0.63;0.95;0.67
+Ghana;2014;GHA;Sub-Saharan Africa;0.57;0.57;0.66;0.65;0.69;0.41;0.81;0.75;0.66;0.81;0.5
+Ghana;2015;GHA;Sub-Saharan Africa;0.6;0.73;0.69;0.69;0.78;0.47;0.79;0.69;0.68;0.8;0.58
+Ghana;2016;GHA;Sub-Saharan Africa;0.58;0.79;0.65;0.69;0.65;0.43;0.83;0.71;0.46;0.87;0.55
+Ghana;2018;GHA;Sub-Saharan Africa;0.59;0.77;0.68;0.68;0.72;0.47;0.84;0.74;0.56;0.86;0.52
+Ghana;2019;GHA;Sub-Saharan Africa;0.58;0.71;0.64;0.65;0.71;0.46;0.77;0.68;0.56;0.77;0.52
+Ghana;2020;GHA;Sub-Saharan Africa;0.57;0.71;0.61;0.6;0.6;0.45;0.74;0.72;0.48;0.77;0.53
+Ghana;2021;GHA;Sub-Saharan Africa;0.55;0.69;0.58;0.57;0.52;0.4;0.72;0.71;0.45;0.74;0.56
+Ghana;2022;GHA;Sub-Saharan Africa;0.55;0.68;0.58;0.59;0.54;0.4;0.69;0.73;0.43;0.72;0.54
+Greece;2013;GRC;EU + EFTA + North America;0.6;0.41;0.72;0.66;0.8;0.53;0.74;0.75;0.82;0.79;0.66
+Greece;2014;GRC;EU + EFTA + North America;0.59;0.41;0.69;0.64;0.74;0.52;0.76;0.73;0.74;0.8;0.56
+Greece;2015;GRC;EU + EFTA + North America;0.6;0.63;0.65;0.62;0.76;0.58;0.69;0.66;0.65;0.76;0.52
+Greece;2016;GRC;EU + EFTA + North America;0.6;0.63;0.65;0.62;0.78;0.59;0.65;0.57;0.75;0.74;0.52
+Greece;2018;GRC;EU + EFTA + North America;0.6;0.63;0.63;0.56;0.72;0.56;0.68;0.64;0.64;0.75;0.49
+Greece;2019;GRC;EU + EFTA + North America;0.62;0.64;0.66;0.54;0.78;0.56;0.69;0.7;0.7;0.76;0.55
+Greece;2020;GRC;EU + EFTA + North America;0.61;0.64;0.65;0.54;0.77;0.55;0.69;0.72;0.66;0.76;0.55
+Greece;2021;GRC;EU + EFTA + North America;0.61;0.62;0.65;0.55;0.78;0.56;0.68;0.68;0.62;0.75;0.57
+Greece;2022;GRC;EU + EFTA + North America;0.61;0.63;0.66;0.57;0.79;0.58;0.68;0.68;0.66;0.75;0.6
+Guatemala;2013;GTM;Latin America & Caribbean;0.46;0.47;0.59;0.43;0.59;0.47;0.67;0.72;0.7;0.69;0.47
+Guatemala;2014;GTM;Latin America & Caribbean;0.44;0.46;0.56;0.44;0.58;0.45;0.64;0.67;0.63;0.68;0.37
+Guatemala;2015;GTM;Latin America & Caribbean;0.44;0.59;0.56;0.39;0.63;0.47;0.63;0.71;0.58;0.69;0.4
+Guatemala;2016;GTM;Latin America & Caribbean;0.44;0.57;0.55;0.33;0.64;0.43;0.64;0.7;0.6;0.65;0.4
+Guatemala;2018;GTM;Latin America & Caribbean;0.44;0.57;0.55;0.36;0.64;0.41;0.65;0.69;0.59;0.64;0.41
+Guatemala;2019;GTM;Latin America & Caribbean;0.46;0.58;0.55;0.39;0.63;0.4;0.63;0.67;0.63;0.67;0.39
+Guatemala;2020;GTM;Latin America & Caribbean;0.45;0.58;0.54;0.43;0.61;0.39;0.62;0.64;0.61;0.66;0.4
+Guatemala;2021;GTM;Latin America & Caribbean;0.44;0.57;0.53;0.43;0.58;0.39;0.61;0.64;0.57;0.65;0.39
+Guatemala;2022;GTM;Latin America & Caribbean;0.44;0.58;0.53;0.4;0.58;0.38;0.62;0.63;0.57;0.65;0.39
+Hong Kong SAR. China;2013;HKG;East Asia & Pacific;0.79;0.57;0.71;0.72;0.83;0.78;0.51;0.69;0.77;0.56;0.79
+Hong Kong SAR. China;2014;HKG;East Asia & Pacific;0.76;0.56;0.68;0.77;0.81;0.77;0.5;0.71;0.71;0.55;0.65
+Hong Kong SAR. China;2015;HKG;East Asia & Pacific;0.76;0.52;0.7;0.8;0.84;0.79;0.52;0.73;0.72;0.55;0.67
+Hong Kong SAR. China;2016;HKG;East Asia & Pacific;0.77;0.52;0.7;0.84;0.81;0.8;0.5;0.72;0.68;0.52;0.74
+Hong Kong SAR. China;2018;HKG;East Asia & Pacific;0.77;0.64;0.67;0.76;0.71;0.69;0.59;0.77;0.54;0.64;0.68
+Hong Kong SAR. China;2019;HKG;East Asia & Pacific;0.77;0.63;0.66;0.76;0.71;0.7;0.57;0.76;0.52;0.62;0.68
+Hong Kong SAR. China;2020;HKG;East Asia & Pacific;0.76;0.64;0.65;0.74;0.69;0.71;0.56;0.74;0.5;0.62;0.68
+Hong Kong SAR. China;2021;HKG;East Asia & Pacific;0.75;0.57;0.61;0.73;0.61;0.69;0.5;0.76;0.41;0.53;0.67
+Hong Kong SAR. China;2022;HKG;East Asia & Pacific;0.73;0.53;0.59;0.68;0.62;0.68;0.46;0.78;0.41;0.48;0.59
+Hungary;2013;HUN;Eastern Europe & Central Asia;0.65;0.54;0.72;0.61;0.83;0.61;0.72;0.59;0.79;0.76;0.82
+Hungary;2014;HUN;EU + EFTA + North America;0.61;0.48;0.68;0.58;0.83;0.49;0.73;0.62;0.73;0.75;0.7
+Hungary;2015;HUN;EU + EFTA + North America;0.58;0.51;0.65;0.61;0.86;0.64;0.5;0.7;0.66;0.61;0.62
+Hungary;2016;HUN;EU + EFTA + North America;0.57;0.47;0.62;0.52;0.79;0.65;0.47;0.68;0.64;0.58;0.66
+Hungary;2018;HUN;EU + EFTA + North America;0.55;0.45;0.59;0.44;0.78;0.57;0.49;0.6;0.61;0.52;0.7
+Hungary;2019;HUN;EU + EFTA + North America;0.53;0.41;0.58;0.44;0.8;0.58;0.48;0.52;0.66;0.48;0.69
+Hungary;2020;HUN;EU + EFTA + North America;0.53;0.42;0.58;0.45;0.81;0.56;0.48;0.53;0.68;0.49;0.64
+Hungary;2021;HUN;EU + EFTA + North America;0.52;0.42;0.56;0.41;0.8;0.53;0.49;0.52;0.57;0.48;0.66
+Hungary;2022;HUN;EU + EFTA + North America;0.52;0.42;0.56;0.41;0.78;0.53;0.48;0.56;0.57;0.48;0.67
+India;2013;IND;South Asia;0.46;0.55;0.56;0.45;0.36;0.39;0.73;0.72;0.49;0.75;0.56
+India;2014;IND;South Asia;0.48;0.58;0.54;0.56;0.34;0.38;0.68;0.72;0.5;0.67;0.47
+India;2015;IND;South Asia;0.51;0.65;0.54;0.53;0.42;0.39;0.69;0.69;0.47;0.68;0.47
+India;2016;IND;South Asia;0.51;0.66;0.5;0.39;0.44;0.39;0.69;0.63;0.43;0.67;0.38
+India;2018;IND;South Asia;0.52;0.62;0.52;0.42;0.45;0.42;0.65;0.58;0.48;0.64;0.48
+India;2019;IND;South Asia;0.51;0.58;0.53;0.5;0.5;0.41;0.58;0.59;0.53;0.59;0.5
+India;2020;IND;South Asia;0.51;0.58;0.51;0.47;0.47;0.4;0.58;0.56;0.49;0.59;0.5
+India;2021;IND;South Asia;0.5;0.56;0.49;0.45;0.41;0.39;0.56;0.57;0.44;0.57;0.49
+India;2022;IND;South Asia;0.5;0.54;0.47;0.44;0.42;0.39;0.53;0.55;0.43;0.55;0.49
+Indonesia;2013;IDN;East Asia & Pacific;0.52;0.51;0.56;0.47;0.48;0.39;0.74;0.51;0.47;0.83;0.61
+Indonesia;2014;IDN;East Asia & Pacific;0.52;0.63;0.54;0.51;0.49;0.35;0.74;0.45;0.48;0.71;0.56
+Indonesia;2015;IDN;East Asia & Pacific;0.52;0.68;0.52;0.49;0.48;0.35;0.74;0.47;0.39;0.72;0.54
+Indonesia;2016;IDN;East Asia & Pacific;0.52;0.67;0.52;0.44;0.52;0.37;0.74;0.41;0.36;0.71;0.61
+Indonesia;2018;IDN;East Asia & Pacific;0.52;0.62;0.51;0.42;0.51;0.36;0.67;0.43;0.38;0.66;0.6
+Indonesia;2019;IDN;East Asia & Pacific;0.52;0.64;0.52;0.39;0.51;0.4;0.67;0.46;0.43;0.66;0.6
+Indonesia;2020;IDN;East Asia & Pacific;0.53;0.65;0.52;0.39;0.51;0.41;0.68;0.45;0.41;0.67;0.61
+Indonesia;2021;IDN;East Asia & Pacific;0.52;0.63;0.51;0.44;0.5;0.37;0.66;0.42;0.38;0.64;0.64
+Indonesia;2022;IDN;East Asia & Pacific;0.53;0.61;0.5;0.46;0.5;0.37;0.64;0.43;0.36;0.63;0.63
+Iran. Islamic Rep.;2013;IRN;Middle East & North Africa;0.48;0.39;0.27;0.46;0.19;0.39;0.31;0.15;0.08;0.28;0.33
+Iran. Islamic Rep.;2014;IRN;Middle East & North Africa;0.44;0.28;0.23;0.46;0.14;0.34;0.23;0.13;0.08;0.21;0.28
+Iran. Islamic Rep.;2015;IRN;Middle East & North Africa;0.43;0.25;0.22;0.42;0.2;0.37;0.22;0.13;0.07;0.17;0.2
+Iran. Islamic Rep.;2016;IRN;Middle East & North Africa;0.47;0.34;0.29;0.38;0.34;0.47;0.32;0.17;0.11;0.3;0.2
+Iran. Islamic Rep.;2018;IRN;Middle East & North Africa;0.48;0.32;0.3;0.38;0.34;0.47;0.32;0.2;0.22;0.29;0.21
+Iran. Islamic Rep.;2019;IRN;Middle East & North Africa;0.45;0.18;0.25;0.45;0.28;0.45;0.21;0.07;0.14;0.12;0.26
+Iran. Islamic Rep.;2020;IRN;Middle East & North Africa;0.43;0.17;0.22;0.44;0.23;0.4;0.19;0.05;0.12;0.12;0.24
+Iran. Islamic Rep.;2021;IRN;Middle East & North Africa;0.42;0.17;0.22;0.44;0.21;0.39;0.19;0.03;0.12;0.11;0.24
+Iran. Islamic Rep.;2022;IRN;Middle East & North Africa;0.41;0.15;0.2;0.4;0.17;0.4;0.17;0.03;0.11;0.1;0.22
+Italy;2013;ITA;EU + EFTA + North America;0.63;0.47;0.72;0.6;0.85;0.69;0.7;0.74;0.8;0.78;0.63
+Italy;2014;ITA;EU + EFTA + North America;0.63;0.42;0.73;0.61;0.92;0.66;0.73;0.74;0.81;0.8;0.58
+Italy;2015;ITA;EU + EFTA + North America;0.64;0.69;0.74;0.65;0.91;0.69;0.75;0.79;0.77;0.82;0.58
+Italy;2016;ITA;EU + EFTA + North America;0.64;0.72;0.72;0.61;0.83;0.7;0.74;0.75;0.76;0.82;0.57
+Italy;2018;ITA;EU + EFTA + North America;0.65;0.67;0.71;0.65;0.84;0.7;0.69;0.73;0.72;0.78;0.55
+Italy;2019;ITA;EU + EFTA + North America;0.65;0.67;0.73;0.68;0.86;0.7;0.69;0.73;0.79;0.79;0.57
+Italy;2020;ITA;EU + EFTA + North America;0.66;0.67;0.73;0.68;0.86;0.71;0.69;0.74;0.79;0.79;0.58
+Italy;2021;ITA;EU + EFTA + North America;0.66;0.67;0.73;0.66;0.87;0.71;0.7;0.76;0.8;0.79;0.57
+Italy;2022;ITA;EU + EFTA + North America;0.67;0.67;0.73;0.66;0.83;0.71;0.68;0.75;0.82;0.78;0.59
+Jamaica;2013;JAM;Latin America & Caribbean;0.52;0.43;0.59;0.59;0.42;0.4;0.63;0.81;0.51;0.7;0.61
+Jamaica;2014;JAM;Latin America & Caribbean;0.53;0.41;0.61;0.66;0.47;0.39;0.69;0.83;0.59;0.75;0.51
+Jamaica;2015;JAM;Latin America & Caribbean;0.56;0.65;0.66;0.64;0.57;0.44;0.73;0.91;0.61;0.77;0.59
+Jamaica;2016;JAM;Latin America & Caribbean;0.57;0.69;0.63;0.59;0.62;0.45;0.7;0.79;0.6;0.75;0.58
+Jamaica;2018;JAM;Latin America & Caribbean;0.58;0.64;0.63;0.63;0.58;0.51;0.64;0.71;0.65;0.71;0.59
+Jamaica;2019;JAM;Latin America & Caribbean;0.56;0.62;0.63;0.63;0.59;0.5;0.63;0.67;0.71;0.69;0.59
+Jamaica;2020;JAM;Latin America & Caribbean;0.57;0.66;0.64;0.62;0.58;0.49;0.67;0.68;0.7;0.74;0.63
+Jamaica;2021;JAM;Latin America & Caribbean;0.57;0.66;0.63;0.61;0.57;0.48;0.67;0.73;0.63;0.72;0.62
+Jamaica;2022;JAM;Latin America & Caribbean;0.58;0.66;0.65;0.62;0.61;0.52;0.66;0.75;0.65;0.73;0.64
+Japan;2013;JPN;East Asia & Pacific;0.81;0.88;0.78;0.81;0.79;0.69;0.84;0.78;0.71;0.84;0.8
+Japan;2014;JPN;East Asia & Pacific;0.78;0.7;0.75;0.78;0.81;0.67;0.79;0.7;0.77;0.77;0.71
+Japan;2015;JPN;East Asia & Pacific;0.78;0.75;0.76;0.77;0.78;0.69;0.8;0.68;0.84;0.79;0.74
+Japan;2016;JPN;East Asia & Pacific;0.78;0.7;0.75;0.81;0.84;0.64;0.72;0.61;0.83;0.74;0.79
+Japan;2018;JPN;East Asia & Pacific;0.79;0.71;0.76;0.82;0.86;0.73;0.73;0.67;0.71;0.75;0.77
+Japan;2019;JPN;East Asia & Pacific;0.78;0.68;0.78;0.84;0.94;0.74;0.72;0.68;0.82;0.73;0.79
+Japan;2020;JPN;East Asia & Pacific;0.78;0.67;0.77;0.82;0.9;0.75;0.71;0.66;0.83;0.71;0.77
+Japan;2021;JPN;East Asia & Pacific;0.79;0.69;0.78;0.82;0.92;0.77;0.73;0.69;0.85;0.73;0.76
+Japan;2022;JPN;East Asia & Pacific;0.79;0.69;0.78;0.81;0.91;0.76;0.72;0.65;0.89;0.73;0.77
+Jordan;2013;JOR;Middle East & North Africa;0.57;0.31;0.5;0.56;0.44;0.5;0.49;0.62;0.33;0.61;0.42
+Jordan;2014;JOR;Middle East & North Africa;0.57;0.39;0.47;0.66;0.46;0.5;0.47;0.46;0.33;0.49;0.42
+Jordan;2015;JOR;Middle East & North Africa;0.56;0.43;0.52;0.67;0.63;0.56;0.48;0.36;0.46;0.43;0.57
+Jordan;2016;JOR;Middle East & North Africa;0.59;0.44;0.5;0.65;0.66;0.52;0.47;0.47;0.32;0.44;0.48
+Jordan;2018;JOR;Middle East & North Africa;0.6;0.45;0.51;0.68;0.61;0.55;0.49;0.47;0.39;0.46;0.44
+Jordan;2019;JOR;Middle East & North Africa;0.57;0.38;0.49;0.71;0.61;0.48;0.43;0.39;0.4;0.4;0.52
+Jordan;2020;JOR;Middle East & North Africa;0.57;0.38;0.48;0.65;0.61;0.48;0.44;0.39;0.41;0.4;0.5
+Jordan;2021;JOR;Middle East & North Africa;0.55;0.35;0.48;0.66;0.62;0.48;0.4;0.37;0.44;0.37;0.5
+Jordan;2022;JOR;Middle East & North Africa;0.54;0.34;0.46;0.61;0.54;0.48;0.38;0.37;0.38;0.37;0.53
+Kazakhstan;2013;KAZ;Eastern Europe & Central Asia;0.46;0.37;0.5;0.61;0.5;0.44;0.35;0.67;0.33;0.44;0.63
+Kazakhstan;2014;KAZ;Eastern Europe & Central Asia;0.47;0.25;0.48;0.58;0.6;0.45;0.35;0.58;0.4;0.42;0.48
+Kazakhstan;2015;KAZ;Eastern Europe & Central Asia;0.5;0.35;0.46;0.55;0.49;0.44;0.36;0.59;0.34;0.41;0.49
+Kazakhstan;2016;KAZ;Eastern Europe & Central Asia;0.5;0.39;0.45;0.54;0.49;0.44;0.35;0.63;0.3;0.39;0.5
+Kazakhstan;2018;KAZ;Eastern Europe & Central Asia;0.51;0.39;0.45;0.56;0.52;0.44;0.37;0.61;0.21;0.39;0.5
+Kazakhstan;2019;KAZ;Eastern Europe & Central Asia;0.52;0.35;0.46;0.56;0.59;0.45;0.35;0.57;0.35;0.35;0.49
+Kazakhstan;2020;KAZ;Eastern Europe & Central Asia;0.52;0.34;0.46;0.57;0.6;0.43;0.34;0.57;0.3;0.33;0.51
+Kazakhstan;2021;KAZ;Eastern Europe & Central Asia;0.52;0.37;0.45;0.56;0.54;0.43;0.36;0.56;0.25;0.36;0.52
+Kazakhstan;2022;KAZ;Eastern Europe & Central Asia;0.53;0.37;0.46;0.56;0.53;0.47;0.37;0.53;0.31;0.37;0.54
+Kenya;2013;KEN;Sub-Saharan Africa;0.45;0.49;0.54;0.43;0.43;0.41;0.61;0.74;0.39;0.78;0.49
+Kenya;2014;KEN;Sub-Saharan Africa;0.43;0.4;0.46;0.48;0.28;0.33;0.59;0.68;0.26;0.69;0.38
+Kenya;2015;KEN;Sub-Saharan Africa;0.45;0.58;0.49;0.52;0.34;0.26;0.6;0.74;0.26;0.68;0.54
+Kenya;2016;KEN;Sub-Saharan Africa;0.43;0.57;0.47;0.44;0.37;0.32;0.57;0.67;0.25;0.59;0.55
+Kenya;2018;KEN;Sub-Saharan Africa;0.45;0.58;0.46;0.42;0.36;0.38;0.55;0.59;0.3;0.58;0.48
+Kenya;2019;KEN;Sub-Saharan Africa;0.45;0.58;0.46;0.48;0.27;0.38;0.53;0.63;0.2;0.6;0.56
+Kenya;2020;KEN;Sub-Saharan Africa;0.45;0.57;0.47;0.5;0.31;0.4;0.52;0.63;0.23;0.6;0.55
+Kenya;2021;KEN;Sub-Saharan Africa;0.44;0.57;0.47;0.46;0.31;0.39;0.52;0.64;0.26;0.61;0.54
+Kenya;2022;KEN;Sub-Saharan Africa;0.45;0.58;0.47;0.46;0.28;0.39;0.53;0.66;0.28;0.62;0.54
+Korea. Rep.;2013;KOR;East Asia & Pacific;0.73;0.66;0.76;0.75;0.83;0.8;0.72;0.75;0.69;0.81;0.73
+Korea. Rep.;2014;KOR;East Asia & Pacific;0.77;0.65;0.73;0.7;0.86;0.77;0.75;0.63;0.7;0.73;0.66
+Korea. Rep.;2015;KOR;East Asia & Pacific;0.79;0.7;0.73;0.65;0.86;0.78;0.77;0.69;0.66;0.72;0.72
+Korea. Rep.;2016;KOR;East Asia & Pacific;0.73;0.61;0.7;0.7;0.88;0.73;0.61;0.74;0.66;0.63;0.68
+Korea. Rep.;2018;KOR;East Asia & Pacific;0.72;0.64;0.71;0.66;0.93;0.77;0.63;0.72;0.68;0.65;0.6
+Korea. Rep.;2019;KOR;East Asia & Pacific;0.73;0.65;0.74;0.68;0.92;0.78;0.65;0.73;0.83;0.69;0.6
+Korea. Rep.;2020;KOR;East Asia & Pacific;0.73;0.66;0.73;0.68;0.9;0.78;0.66;0.71;0.83;0.7;0.6
+Korea. Rep.;2021;KOR;East Asia & Pacific;0.74;0.66;0.75;0.72;0.93;0.8;0.66;0.72;0.87;0.7;0.62
+Korea. Rep.;2022;KOR;East Asia & Pacific;0.73;0.67;0.75;0.73;0.92;0.8;0.65;0.74;0.86;0.72;0.63
+Kyrgyz Republic;2013;KGZ;Eastern Europe & Central Asia;0.45;0.44;0.51;0.41;0.46;0.32;0.58;0.62;0.38;0.71;0.62
+Kyrgyz Republic;2014;KGZ;Eastern Europe & Central Asia;0.45;0.34;0.52;0.56;0.48;0.33;0.61;0.62;0.36;0.68;0.54
+Kyrgyz Republic;2015;KGZ;Eastern Europe & Central Asia;0.47;0.57;0.51;0.52;0.48;0.35;0.61;0.61;0.3;0.66;0.53
+Kyrgyz Republic;2016;KGZ;Eastern Europe & Central Asia;0.47;0.63;0.54;0.48;0.52;0.39;0.63;0.61;0.39;0.72;0.56
+Kyrgyz Republic;2018;KGZ;Eastern Europe & Central Asia;0.47;0.59;0.5;0.46;0.41;0.35;0.6;0.62;0.31;0.7;0.54
+Kyrgyz Republic;2019;KGZ;Eastern Europe & Central Asia;0.48;0.58;0.49;0.49;0.47;0.33;0.59;0.57;0.33;0.62;0.54
+Kyrgyz Republic;2020;KGZ;Eastern Europe & Central Asia;0.48;0.59;0.51;0.54;0.52;0.35;0.6;0.58;0.32;0.64;0.55
+Kyrgyz Republic;2021;KGZ;Eastern Europe & Central Asia;0.47;0.57;0.48;0.49;0.49;0.32;0.57;0.57;0.23;0.63;0.53
+Kyrgyz Republic;2022;KGZ;Eastern Europe & Central Asia;0.46;0.55;0.47;0.52;0.45;0.33;0.55;0.58;0.19;0.61;0.53
+Lebanon;2013;LBN;Middle East & North Africa;0.51;0.43;0.65;0.49;0.74;0.44;0.77;0.5;0.75;0.8;0.68
+Lebanon;2014;LBN;Middle East & North Africa;0.51;0.37;0.62;0.51;0.68;0.44;0.77;0.55;0.71;0.82;0.44
+Lebanon;2015;LBN;Middle East & North Africa;0.48;0.6;0.55;0.44;0.55;0.43;0.69;0.64;0.51;0.71;0.45
+Lebanon;2016;LBN;Middle East & North Africa;0.46;0.58;0.51;0.44;0.52;0.38;0.64;0.53;0.41;0.66;0.51
+Lebanon;2018;LBN;Middle East & North Africa;0.47;0.55;0.49;0.37;0.59;0.43;0.6;0.5;0.36;0.65;0.46
+Lebanon;2019;LBN;Middle East & North Africa;0.47;0.54;0.52;0.46;0.49;0.45;0.6;0.54;0.4;0.65;0.55
+Lebanon;2020;LBN;Middle East & North Africa;0.45;0.5;0.5;0.42;0.59;0.45;0.55;0.47;0.4;0.6;0.5
+Lebanon;2021;LBN;Middle East & North Africa;0.45;0.51;0.47;0.39;0.5;0.45;0.54;0.4;0.42;0.6;0.49
+Lebanon;2022;LBN;Middle East & North Africa;0.45;0.51;0.46;0.38;0.47;0.42;0.54;0.41;0.37;0.6;0.45
+Liberia;2013;LBR;Sub-Saharan Africa;0.41;0.54;0.52;0.4;0.43;0.37;0.7;0.73;0.47;0.73;0.35
+Liberia;2014;LBR;Sub-Saharan Africa;0.42;0.49;0.57;0.48;0.51;0.34;0.75;0.79;0.54;0.73;0.41
+Liberia;2015;LBR;Sub-Saharan Africa;0.45;0.66;0.58;0.48;0.54;0.3;0.74;0.82;0.53;0.74;0.47
+Liberia;2016;LBR;Sub-Saharan Africa;0.45;0.66;0.56;0.51;0.47;0.3;0.71;0.81;0.41;0.76;0.49
+Liberia;2018;LBR;Sub-Saharan Africa;0.45;0.65;0.56;0.51;0.45;0.34;0.66;0.79;0.4;0.78;0.54
+Liberia;2019;LBR;Sub-Saharan Africa;0.46;0.61;0.52;0.47;0.53;0.37;0.62;0.66;0.42;0.64;0.46
+Liberia;2020;LBR;Sub-Saharan Africa;0.45;0.6;0.52;0.48;0.52;0.38;0.61;0.63;0.44;0.65;0.48
+Liberia;2021;LBR;Sub-Saharan Africa;0.44;0.57;0.51;0.48;0.49;0.36;0.58;0.64;0.41;0.62;0.51
+Liberia;2022;LBR;Sub-Saharan Africa;0.43;0.57;0.51;0.48;0.52;0.38;0.57;0.6;0.4;0.63;0.47
+Madagascar;2013;MDG;Sub-Saharan Africa;0.52;0.37;0.58;0.66;0.51;0.45;0.47;0.85;0.33;0.6;0.74
+Madagascar;2014;MDG;Sub-Saharan Africa;0.45;0.31;0.48;0.67;0.23;0.38;0.43;0.69;0.26;0.53;0.62
+Madagascar;2015;MDG;Sub-Saharan Africa;0.45;0.54;0.47;0.65;0.22;0.34;0.51;0.65;0.17;0.62;0.61
+Madagascar;2016;MDG;Sub-Saharan Africa;0.45;0.53;0.49;0.63;0.31;0.35;0.51;0.63;0.26;0.61;0.62
+Madagascar;2018;MDG;Sub-Saharan Africa;0.44;0.5;0.48;0.6;0.36;0.37;0.5;0.65;0.27;0.55;0.57
+Madagascar;2019;MDG;Sub-Saharan Africa;0.43;0.5;0.47;0.57;0.4;0.34;0.49;0.62;0.25;0.55;0.57
+Madagascar;2020;MDG;Sub-Saharan Africa;0.44;0.49;0.47;0.6;0.38;0.34;0.49;0.59;0.25;0.54;0.61
+Madagascar;2021;MDG;Sub-Saharan Africa;0.44;0.49;0.46;0.62;0.38;0.34;0.47;0.57;0.23;0.53;0.56
+Madagascar;2022;MDG;Sub-Saharan Africa;0.44;0.5;0.46;0.58;0.38;0.34;0.49;0.56;0.22;0.54;0.56
+Malawi;2013;MWI;Sub-Saharan Africa;0.5;0.61;0.47;0.56;0.5;0.32;0.5;0.54;0.39;0.58;0.41
+Malawi;2014;MWI;Sub-Saharan Africa;0.51;0.5;0.55;0.58;0.55;0.33;0.59;0.75;0.56;0.66;0.4
+Malawi;2015;MWI;Sub-Saharan Africa;0.5;0.71;0.59;0.49;0.62;0.34;0.68;0.79;0.52;0.79;0.47
+Malawi;2016;MWI;Sub-Saharan Africa;0.51;0.72;0.58;0.48;0.6;0.31;0.68;0.74;0.57;0.79;0.46
+Malawi;2018;MWI;Sub-Saharan Africa;0.51;0.61;0.58;0.55;0.6;0.36;0.61;0.75;0.56;0.69;0.53
+Malawi;2019;MWI;Sub-Saharan Africa;0.51;0.61;0.59;0.54;0.64;0.39;0.59;0.71;0.61;0.71;0.53
+Malawi;2020;MWI;Sub-Saharan Africa;0.52;0.6;0.58;0.56;0.62;0.4;0.58;0.71;0.54;0.7;0.53
+Malawi;2021;MWI;Sub-Saharan Africa;0.52;0.61;0.58;0.56;0.55;0.38;0.59;0.71;0.56;0.72;0.55
+Malawi;2022;MWI;Sub-Saharan Africa;0.52;0.62;0.58;0.54;0.57;0.39;0.59;0.72;0.54;0.73;0.52
+Malaysia;2013;MYS;East Asia & Pacific;0.6;0.45;0.5;0.69;0.57;0.59;0.4;0.27;0.51;0.34;0.63
+Malaysia;2014;MYS;East Asia & Pacific;0.58;0.46;0.45;0.7;0.42;0.5;0.38;0.23;0.45;0.34;0.55
+Malaysia;2015;MYS;East Asia & Pacific;0.57;0.37;0.48;0.6;0.49;0.56;0.37;0.29;0.6;0.37;0.54
+Malaysia;2016;MYS;East Asia & Pacific;0.54;0.35;0.44;0.46;0.44;0.57;0.35;0.31;0.52;0.35;0.5
+Malaysia;2018;MYS;East Asia & Pacific;0.54;0.41;0.47;0.46;0.5;0.53;0.38;0.41;0.54;0.38;0.57
+Malaysia;2019;MYS;East Asia & Pacific;0.55;0.45;0.48;0.49;0.53;0.54;0.46;0.38;0.38;0.44;0.6
+Malaysia;2020;MYS;East Asia & Pacific;0.58;0.51;0.52;0.55;0.55;0.58;0.51;0.44;0.41;0.47;0.63
+Malaysia;2021;MYS;East Asia & Pacific;0.57;0.5;0.51;0.54;0.57;0.55;0.5;0.43;0.4;0.47;0.63
+Malaysia;2022;MYS;East Asia & Pacific;0.57;0.49;0.49;0.5;0.56;0.54;0.47;0.46;0.38;0.45;0.58
+Mexico;2013;MEX;Latin America & Caribbean;0.47;0.47;0.56;0.39;0.49;0.37;0.64;0.63;0.63;0.71;0.65
+Mexico;2014;MEX;Latin America & Caribbean;0.45;0.45;0.55;0.43;0.4;0.3;0.65;0.68;0.55;0.73;0.62
+Mexico;2015;MEX;Latin America & Caribbean;0.47;0.56;0.56;0.4;0.47;0.36;0.58;0.76;0.66;0.66;0.55
+Mexico;2016;MEX;Latin America & Caribbean;0.46;0.53;0.51;0.36;0.4;0.34;0.54;0.75;0.6;0.62;0.47
+Mexico;2018;MEX;Latin America & Caribbean;0.45;0.54;0.52;0.34;0.47;0.43;0.52;0.74;0.5;0.65;0.52
+Mexico;2019;MEX;Latin America & Caribbean;0.45;0.55;0.54;0.36;0.49;0.42;0.52;0.73;0.59;0.65;0.52
+Mexico;2020;MEX;Latin America & Caribbean;0.44;0.54;0.52;0.38;0.46;0.38;0.51;0.75;0.53;0.62;0.5
+Mexico;2021;MEX;Latin America & Caribbean;0.43;0.52;0.49;0.36;0.4;0.36;0.49;0.76;0.45;0.61;0.49
+Mexico;2022;MEX;Latin America & Caribbean;0.42;0.51;0.49;0.36;0.41;0.35;0.48;0.74;0.48;0.6;0.48
+Moldova;2013;MDA;Eastern Europe & Central Asia;0.46;0.38;0.54;0.63;0.53;0.36;0.5;0.59;0.46;0.65;0.59
+Moldova;2014;MDA;Eastern Europe & Central Asia;0.45;0.36;0.51;0.62;0.53;0.35;0.51;0.6;0.43;0.66;0.41
+Moldova;2015;MDA;Eastern Europe & Central Asia;0.48;0.57;0.55;0.62;0.58;0.37;0.56;0.66;0.4;0.72;0.5
+Moldova;2016;MDA;Eastern Europe & Central Asia;0.49;0.6;0.58;0.64;0.65;0.42;0.55;0.67;0.43;0.72;0.54
+Moldova;2018;MDA;Eastern Europe & Central Asia;0.49;0.55;0.54;0.51;0.66;0.44;0.53;0.64;0.44;0.63;0.46
+Moldova;2019;MDA;Eastern Europe & Central Asia;0.49;0.52;0.54;0.54;0.67;0.46;0.5;0.62;0.44;0.6;0.49
+Moldova;2020;MDA;Eastern Europe & Central Asia;0.5;0.51;0.54;0.54;0.68;0.44;0.51;0.63;0.47;0.59;0.48
+Moldova;2021;MDA;Eastern Europe & Central Asia;0.51;0.53;0.56;0.54;0.69;0.46;0.53;0.62;0.52;0.61;0.49
+Moldova;2022;MDA;Eastern Europe & Central Asia;0.52;0.54;0.57;0.54;0.73;0.46;0.55;0.63;0.52;0.63;0.53
+Mongolia;2013;MNG;East Asia & Pacific;0.52;0.25;0.62;0.67;0.63;0.46;0.62;0.72;0.46;0.72;0.68
+Mongolia;2014;MNG;East Asia & Pacific;0.51;0.26;0.61;0.62;0.67;0.43;0.64;0.68;0.56;0.73;0.56
+Mongolia;2015;MNG;East Asia & Pacific;0.53;0.6;0.61;0.59;0.66;0.44;0.62;0.73;0.51;0.74;0.57
+Mongolia;2016;MNG;East Asia & Pacific;0.54;0.62;0.6;0.51;0.69;0.55;0.61;0.77;0.48;0.71;0.5
+Mongolia;2018;MNG;East Asia & Pacific;0.54;0.61;0.59;0.56;0.66;0.51;0.63;0.65;0.46;0.67;0.55
+Mongolia;2019;MNG;East Asia & Pacific;0.55;0.62;0.58;0.54;0.64;0.49;0.63;0.66;0.44;0.68;0.54
+Mongolia;2020;MNG;East Asia & Pacific;0.53;0.6;0.57;0.55;0.63;0.5;0.62;0.62;0.47;0.67;0.53
+Mongolia;2021;MNG;East Asia & Pacific;0.54;0.61;0.58;0.57;0.68;0.48;0.62;0.62;0.46;0.68;0.55
+Mongolia;2022;MNG;East Asia & Pacific;0.54;0.59;0.57;0.56;0.65;0.47;0.6;0.6;0.45;0.66;0.55
+Morocco;2013;MAR;Middle East & North Africa;0.5;0.48;0.48;0.53;0.35;0.32;0.55;0.46;0.21;0.75;0.64
+Morocco;2014;MAR;Middle East & North Africa;0.51;0.53;0.45;0.61;0.32;0.3;0.55;0.48;0.19;0.58;0.58
+Morocco;2015;MAR;Middle East & North Africa;0.52;0.51;0.45;0.67;0.33;0.26;0.53;0.34;0.23;0.54;0.68
+Morocco;2016;MAR;Middle East & North Africa;0.53;0.51;0.45;0.58;0.33;0.33;0.54;0.46;0.2;0.55;0.65
+Morocco;2018;MAR;Middle East & North Africa;0.51;0.47;0.45;0.58;0.4;0.34;0.48;0.46;0.28;0.52;0.57
+Morocco;2019;MAR;Middle East & North Africa;0.5;0.46;0.46;0.66;0.38;0.38;0.48;0.43;0.24;0.5;0.59
+Morocco;2020;MAR;Middle East & North Africa;0.5;0.45;0.45;0.68;0.35;0.39;0.46;0.44;0.24;0.49;0.58
+Morocco;2021;MAR;Middle East & North Africa;0.49;0.43;0.43;0.61;0.37;0.37;0.46;0.44;0.21;0.46;0.56
+Morocco;2022;MAR;Middle East & North Africa;0.48;0.43;0.42;0.6;0.34;0.35;0.45;0.41;0.22;0.46;0.52
+Myanmar;2014;MMR;East Asia & Pacific;0.41;0.24;0.3;0.41;0.22;0.27;0.3;0.37;0.15;0.33;0.31
+Myanmar;2015;MMR;East Asia & Pacific;0.42;0.28;0.31;0.42;0.26;0.29;0.31;0.29;0.19;0.31;0.42
+Myanmar;2016;MMR;East Asia & Pacific;0.43;0.33;0.3;0.39;0.24;0.24;0.33;0.24;0.21;0.34;0.44
+Myanmar;2018;MMR;East Asia & Pacific;0.42;0.33;0.31;0.35;0.24;0.26;0.32;0.27;0.22;0.34;0.45
+Myanmar;2019;MMR;East Asia & Pacific;0.42;0.42;0.31;0.42;0.17;0.2;0.4;0.27;0.15;0.35;0.54
+Myanmar;2020;MMR;East Asia & Pacific;0.42;0.44;0.31;0.42;0.16;0.18;0.38;0.28;0.17;0.39;0.48
+Myanmar;2021;MMR;East Asia & Pacific;0.39;0.38;0.27;0.4;0.12;0.17;0.33;0.2;0.13;0.31;0.49
+Myanmar;2022;MMR;East Asia & Pacific;0.36;0.29;0.22;0.39;0.07;0.14;0.25;0.13;0.1;0.16;0.54
+Nepal;2013;NPL;South Asia;0.5;0.49;0.59;0.68;0.62;0.48;0.61;0.61;0.54;0.6;0.56
+Nepal;2014;NPL;South Asia;0.5;0.46;0.59;0.6;0.54;0.4;0.69;0.74;0.52;0.72;0.53
+Nepal;2015;NPL;South Asia;0.53;0.67;0.56;0.48;0.48;0.38;0.72;0.73;0.44;0.72;0.56
+Nepal;2016;NPL;South Asia;0.52;0.66;0.53;0.51;0.46;0.39;0.69;0.65;0.32;0.7;0.56
+Nepal;2018;NPL;South Asia;0.53;0.64;0.53;0.51;0.45;0.37;0.66;0.69;0.36;0.67;0.55
+Nepal;2019;NPL;South Asia;0.53;0.62;0.54;0.49;0.47;0.4;0.64;0.62;0.49;0.65;0.57
+Nepal;2020;NPL;South Asia;0.53;0.61;0.52;0.53;0.4;0.39;0.63;0.63;0.34;0.64;0.61
+Nepal;2021;NPL;South Asia;0.52;0.6;0.51;0.53;0.42;0.38;0.62;0.59;0.35;0.63;0.56
+Nepal;2022;NPL;South Asia;0.52;0.61;0.52;0.52;0.45;0.41;0.62;0.63;0.39;0.64;0.52
+Netherlands;2013;NLD;EU + EFTA + North America;0.85;1,00;0.84;0.7;0.94;0.89;0.9;0.88;0.85;0.98;0.55
+Netherlands;2014;NLD;EU + EFTA + North America;0.83;0.76;0.85;0.79;0.93;0.83;0.89;0.86;0.86;0.89;0.75
+Netherlands;2015;NLD;EU + EFTA + North America;0.83;0.82;0.85;0.83;0.94;0.82;0.89;0.86;0.81;0.88;0.81
+Netherlands;2016;NLD;EU + EFTA + North America;0.86;0.86;0.86;0.83;0.97;0.83;0.87;0.83;0.82;0.87;0.82
+Netherlands;2018;NLD;EU + EFTA + North America;0.85;0.86;0.85;0.82;0.96;0.86;0.85;0.78;0.83;0.87;0.82
+Netherlands;2019;NLD;EU + EFTA + North America;0.84;0.84;0.84;0.83;0.96;0.84;0.84;0.78;0.82;0.86;0.81
+Netherlands;2020;NLD;EU + EFTA + North America;0.84;0.84;0.84;0.82;0.93;0.83;0.85;0.79;0.82;0.86;0.82
+Netherlands;2021;NLD;EU + EFTA + North America;0.83;0.84;0.84;0.81;0.94;0.82;0.85;0.81;0.83;0.87;0.83
+Netherlands;2022;NLD;EU + EFTA + North America;0.83;0.84;0.84;0.8;0.93;0.83;0.84;0.82;0.83;0.87;0.82
+New Zealand;2013;NZL;East Asia & Pacific;0.84;0.78;0.86;0.83;0.92;0.84;0.88;0.89;0.86;0.82;0.85
+New Zealand;2014;NZL;East Asia & Pacific;0.83;0.77;0.84;0.8;0.92;0.82;0.92;0.89;0.81;0.84;0.75
+New Zealand;2015;NZL;East Asia & Pacific;0.83;0.83;0.83;0.79;0.91;0.82;0.9;0.88;0.73;0.86;0.76
+New Zealand;2016;NZL;East Asia & Pacific;0.83;0.87;0.82;0.75;0.91;0.8;0.89;0.85;0.74;0.85;0.75
+New Zealand;2018;NZL;East Asia & Pacific;0.83;0.82;0.81;0.74;0.93;0.78;0.83;0.83;0.81;0.84;0.76
+New Zealand;2019;NZL;East Asia & Pacific;0.82;0.82;0.8;0.72;0.91;0.76;0.83;0.83;0.79;0.83;0.76
+New Zealand;2020;NZL;East Asia & Pacific;0.83;0.83;0.81;0.72;0.92;0.77;0.83;0.82;0.81;0.83;0.75
+New Zealand;2021;NZL;East Asia & Pacific;0.83;0.84;0.82;0.74;0.92;0.79;0.84;0.83;0.79;0.84;0.78
+New Zealand;2022;NZL;East Asia & Pacific;0.83;0.83;0.81;0.71;0.92;0.78;0.83;0.83;0.82;0.84;0.77
+Nicaragua;2013;NIC;Latin America & Caribbean;0.46;0.5;0.54;0.48;0.5;0.39;0.5;0.74;0.46;0.54;0.68
+Nicaragua;2014;NIC;Latin America & Caribbean;0.43;0.53;0.51;0.58;0.44;0.36;0.48;0.73;0.4;0.53;0.58
+Nicaragua;2015;NIC;Latin America & Caribbean;0.43;0.48;0.46;0.46;0.51;0.35;0.45;0.68;0.27;0.49;0.49
+Nicaragua;2016;NIC;Latin America & Caribbean;0.42;0.42;0.45;0.49;0.47;0.31;0.44;0.72;0.25;0.44;0.5
+Nicaragua;2018;NIC;Latin America & Caribbean;0.43;0.43;0.47;0.46;0.53;0.33;0.44;0.69;0.33;0.47;0.53
+Nicaragua;2019;NIC;Latin America & Caribbean;0.4;0.39;0.39;0.39;0.36;0.28;0.4;0.63;0.18;0.41;0.48
+Nicaragua;2020;NIC;Latin America & Caribbean;0.39;0.36;0.37;0.4;0.34;0.29;0.36;0.61;0.15;0.35;0.48
+Nicaragua;2021;NIC;Latin America & Caribbean;0.38;0.33;0.34;0.38;0.21;0.27;0.34;0.56;0.12;0.33;0.48
+Nicaragua;2022;NIC;Latin America & Caribbean;0.36;0.32;0.31;0.36;0.17;0.23;0.33;0.56;0.04;0.32;0.5
+Nigeria;2013;NGA;Sub-Saharan Africa;0.4;0.4;0.45;0.48;0.29;0.21;0.56;0.5;0.35;0.74;0.46
+Nigeria;2014;NGA;Sub-Saharan Africa;0.39;0.45;0.42;0.53;0.24;0.22;0.56;0.49;0.34;0.62;0.4
+Nigeria;2015;NGA;Sub-Saharan Africa;0.41;0.55;0.44;0.52;0.33;0.29;0.57;0.47;0.35;0.62;0.39
+Nigeria;2016;NGA;Sub-Saharan Africa;0.44;0.53;0.46;0.5;0.32;0.36;0.52;0.5;0.41;0.6;0.44
+Nigeria;2018;NGA;Sub-Saharan Africa;0.44;0.53;0.47;0.51;0.35;0.36;0.51;0.55;0.44;0.59;0.49
+Nigeria;2019;NGA;Sub-Saharan Africa;0.43;0.52;0.46;0.51;0.3;0.37;0.51;0.53;0.4;0.58;0.47
+Nigeria;2020;NGA;Sub-Saharan Africa;0.43;0.52;0.46;0.53;0.27;0.35;0.5;0.54;0.37;0.58;0.51
+Nigeria;2021;NGA;Sub-Saharan Africa;0.41;0.5;0.43;0.52;0.28;0.34;0.47;0.5;0.25;0.56;0.49
+Nigeria;2022;NGA;Sub-Saharan Africa;0.41;0.49;0.42;0.49;0.28;0.33;0.47;0.51;0.29;0.55;0.48
+North Macedonia;2013;MKD;Eastern Europe & Central Asia;0.59;0.56;0.64;0.68;0.68;0.54;0.53;0.77;0.58;0.71;0.61
+North Macedonia;2014;MKD;Eastern Europe & Central Asia;0.58;0.52;0.63;0.7;0.7;0.55;0.52;0.79;0.57;0.71;0.52
+North Macedonia;2015;MKD;Eastern Europe & Central Asia;0.55;0.58;0.57;0.66;0.58;0.47;0.49;0.73;0.39;0.7;0.53
+North Macedonia;2016;MKD;Eastern Europe & Central Asia;0.54;0.57;0.54;0.6;0.53;0.52;0.47;0.69;0.35;0.74;0.45
+North Macedonia;2018;MKD;Eastern Europe & Central Asia;0.53;0.5;0.54;0.61;0.57;0.54;0.47;0.7;0.29;0.58;0.56
+North Macedonia;2019;MKD;Eastern Europe & Central Asia;0.54;0.5;0.57;0.61;0.64;0.56;0.49;0.71;0.37;0.59;0.58
+North Macedonia;2020;MKD;Eastern Europe & Central Asia;0.53;0.51;0.59;0.62;0.68;0.56;0.5;0.73;0.42;0.61;0.58
+North Macedonia;2021;MKD;Eastern Europe & Central Asia;0.53;0.52;0.59;0.62;0.7;0.57;0.5;0.72;0.44;0.61;0.57
+North Macedonia;2022;MKD;Eastern Europe & Central Asia;0.53;0.52;0.6;0.61;0.74;0.55;0.51;0.72;0.45;0.62;0.57
+Norway;2013;NOR;EU + EFTA + North America;0.87;0.76;0.9;0.84;0.96;0.92;0.9;0.84;0.94;0.9;0.93
+Norway;2014;NOR;EU + EFTA + North America;0.88;0.75;0.9;0.87;0.94;0.91;0.94;0.83;0.92;0.93;0.87
+Norway;2015;NOR;EU + EFTA + North America;0.87;0.89;0.9;0.84;0.97;0.91;0.95;0.84;0.87;0.95;0.9
+Norway;2016;NOR;EU + EFTA + North America;0.88;0.95;0.89;0.81;0.94;0.91;0.95;0.85;0.85;0.95;0.89
+Norway;2018;NOR;EU + EFTA + North America;0.89;0.9;0.88;0.78;0.93;0.91;0.93;0.86;0.83;0.94;0.86
+Norway;2019;NOR;EU + EFTA + North America;0.89;0.91;0.9;0.8;0.95;0.91;0.94;0.88;0.88;0.95;0.88
+Norway;2020;NOR;EU + EFTA + North America;0.89;0.92;0.91;0.82;0.94;0.89;0.95;0.88;0.9;0.96;0.92
+Norway;2021;NOR;EU + EFTA + North America;0.9;0.92;0.91;0.82;0.95;0.91;0.95;0.89;0.92;0.96;0.88
+Norway;2022;NOR;EU + EFTA + North America;0.89;0.92;0.91;0.82;0.95;0.9;0.95;0.89;0.91;0.96;0.89
+Pakistan;2013;PAK;South Asia;0.37;0.43;0.4;0.43;0.27;0.28;0.59;0.41;0.24;0.56;0.4
+Pakistan;2014;PAK;South Asia;0.36;0.37;0.38;0.39;0.21;0.27;0.66;0.43;0.25;0.63;0.24
+Pakistan;2015;PAK;South Asia;0.38;0.56;0.39;0.39;0.28;0.27;0.6;0.45;0.24;0.63;0.29
+Pakistan;2016;PAK;South Asia;0.38;0.55;0.39;0.36;0.32;0.34;0.59;0.46;0.25;0.59;0.25
+Pakistan;2018;PAK;South Asia;0.39;0.58;0.4;0.35;0.29;0.34;0.6;0.5;0.27;0.63;0.25
+Pakistan;2019;PAK;South Asia;0.39;0.57;0.38;0.36;0.23;0.3;0.59;0.47;0.22;0.61;0.26
+Pakistan;2020;PAK;South Asia;0.39;0.55;0.38;0.37;0.23;0.31;0.54;0.47;0.2;0.58;0.31
+Pakistan;2021;PAK;South Asia;0.39;0.54;0.38;0.37;0.25;0.3;0.53;0.43;0.23;0.56;0.33
+Pakistan;2022;PAK;South Asia;0.39;0.53;0.38;0.36;0.29;0.33;0.53;0.41;0.24;0.55;0.35
+Panama;2013;PAN;Latin America & Caribbean;0.52;0.59;0.63;0.68;0.71;0.44;0.57;0.68;0.58;0.63;0.72
+Panama;2014;PAN;Latin America & Caribbean;0.5;0.43;0.6;0.66;0.69;0.38;0.58;0.71;0.6;0.64;0.56
+Panama;2015;PAN;Latin America & Caribbean;0.53;0.63;0.62;0.6;0.72;0.41;0.65;0.76;0.58;0.66;0.55
+Panama;2016;PAN;Latin America & Caribbean;0.52;0.67;0.63;0.48;0.72;0.42;0.69;0.82;0.52;0.7;0.65
+Panama;2018;PAN;Latin America & Caribbean;0.52;0.63;0.59;0.47;0.6;0.47;0.64;0.75;0.45;0.71;0.66
+Panama;2019;PAN;Latin America & Caribbean;0.52;0.64;0.62;0.48;0.72;0.48;0.67;0.68;0.56;0.71;0.64
+Panama;2020;PAN;Latin America & Caribbean;0.52;0.66;0.64;0.5;0.73;0.49;0.69;0.71;0.58;0.73;0.68
+Panama;2021;PAN;Latin America & Caribbean;0.52;0.65;0.63;0.48;0.72;0.5;0.67;0.71;0.58;0.73;0.67
+Panama;2022;PAN;Latin America & Caribbean;0.52;0.62;0.62;0.5;0.72;0.49;0.65;0.68;0.57;0.68;0.69
+Peru;2013;PER;Latin America & Caribbean;0.51;0.48;0.7;0.48;0.84;0.61;0.77;0.82;0.77;0.82;0.49
+Peru;2014;PER;Latin America & Caribbean;0.49;0.44;0.66;0.55;0.77;0.53;0.7;0.78;0.72;0.73;0.49
+Peru;2015;PER;Latin America & Caribbean;0.5;0.65;0.6;0.54;0.64;0.46;0.68;0.72;0.52;0.73;0.53
+Peru;2016;PER;Latin America & Caribbean;0.51;0.66;0.64;0.51;0.71;0.49;0.71;0.81;0.58;0.79;0.52
+Peru;2018;PER;Latin America & Caribbean;0.52;0.68;0.65;0.5;0.74;0.45;0.74;0.8;0.67;0.82;0.52
+Peru;2019;PER;Latin America & Caribbean;0.51;0.63;0.63;0.53;0.7;0.41;0.7;0.79;0.59;0.76;0.53
+Peru;2020;PER;Latin America & Caribbean;0.5;0.61;0.62;0.48;0.73;0.44;0.69;0.74;0.68;0.73;0.49
+Peru;2021;PER;Latin America & Caribbean;0.49;0.61;0.61;0.46;0.75;0.41;0.67;0.7;0.68;0.72;0.52
+Peru;2022;PER;Latin America & Caribbean;0.49;0.6;0.61;0.44;0.72;0.41;0.66;0.73;0.67;0.73;0.51
+Philippines;2013;PHL;East Asia & Pacific;0.49;0.48;0.57;0.57;0.39;0.4;0.69;0.64;0.45;0.77;0.64
+Philippines;2014;PHL;East Asia & Pacific;0.5;0.44;0.52;0.56;0.32;0.38;0.66;0.64;0.39;0.68;0.49
+Philippines;2015;PHL;East Asia & Pacific;0.53;0.62;0.52;0.52;0.35;0.39;0.67;0.66;0.4;0.71;0.44
+Philippines;2016;PHL;East Asia & Pacific;0.51;0.61;0.5;0.54;0.34;0.35;0.63;0.64;0.41;0.65;0.43
+Philippines;2018;PHL;East Asia & Pacific;0.47;0.55;0.42;0.47;0.2;0.26;0.57;0.6;0.3;0.56;0.41
+Philippines;2019;PHL;East Asia & Pacific;0.47;0.55;0.42;0.43;0.21;0.31;0.56;0.63;0.31;0.57;0.37
+Philippines;2020;PHL;East Asia & Pacific;0.47;0.51;0.41;0.43;0.18;0.31;0.53;0.64;0.27;0.53;0.43
+Philippines;2021;PHL;East Asia & Pacific;0.46;0.48;0.39;0.42;0.17;0.27;0.49;0.62;0.25;0.49;0.44
+Philippines;2022;PHL;East Asia & Pacific;0.47;0.49;0.4;0.44;0.18;0.29;0.51;0.59;0.23;0.5;0.46
+Poland;2013;POL;Eastern Europe & Central Asia;0.72;0.57;0.85;0.78;1,00;0.86;0.85;0.76;0.83;0.91;0.8
+Poland;2014;POL;EU + EFTA + North America;0.67;0.53;0.72;0.71;0.84;0.64;0.68;0.66;0.75;0.76;0.68
+Poland;2015;POL;EU + EFTA + North America;0.71;0.72;0.77;0.73;0.9;0.71;0.72;0.67;0.89;0.81;0.71
+Poland;2016;POL;EU + EFTA + North America;0.71;0.72;0.74;0.76;0.88;0.71;0.72;0.64;0.73;0.75;0.7
+Poland;2018;POL;EU + EFTA + North America;0.67;0.63;0.66;0.73;0.72;0.64;0.63;0.57;0.61;0.64;0.71
+Poland;2019;POL;EU + EFTA + North America;0.66;0.62;0.66;0.69;0.77;0.64;0.62;0.58;0.65;0.63;0.67
+Poland;2020;POL;EU + EFTA + North America;0.66;0.61;0.64;0.69;0.75;0.64;0.62;0.53;0.59;0.63;0.68
+Poland;2021;POL;EU + EFTA + North America;0.64;0.61;0.61;0.6;0.72;0.63;0.59;0.54;0.53;0.62;0.66
+Poland;2022;POL;EU + EFTA + North America;0.64;0.61;0.61;0.58;0.71;0.62;0.59;0.56;0.52;0.64;0.66
+Portugal;2013;PRT;EU + EFTA + North America;0.66;0.77;0.75;0.63;0.84;0.66;0.75;0.88;0.71;0.83;0.7
+Portugal;2014;PRT;EU + EFTA + North America;0.66;0.61;0.76;0.71;0.83;0.65;0.79;0.89;0.71;0.87;0.67
+Portugal;2015;PRT;EU + EFTA + North America;0.7;0.76;0.8;0.73;0.93;0.71;0.82;0.9;0.72;0.9;0.68
+Portugal;2016;PRT;EU + EFTA + North America;0.71;0.8;0.79;0.68;0.92;0.72;0.81;0.82;0.8;0.88;0.69
+Portugal;2018;PRT;EU + EFTA + North America;0.72;0.8;0.79;0.69;0.88;0.69;0.82;0.82;0.88;0.86;0.7
+Portugal;2019;PRT;EU + EFTA + North America;0.71;0.78;0.79;0.71;0.89;0.66;0.81;0.83;0.84;0.86;0.71
+Portugal;2020;PRT;EU + EFTA + North America;0.7;0.77;0.78;0.68;0.89;0.65;0.8;0.83;0.83;0.85;0.69
+Portugal;2021;PRT;EU + EFTA + North America;0.7;0.76;0.77;0.68;0.85;0.64;0.8;0.82;0.83;0.86;0.69
+Portugal;2022;PRT;EU + EFTA + North America;0.69;0.75;0.76;0.64;0.88;0.63;0.79;0.81;0.82;0.84;0.66
+Romania;2013;ROU;Eastern Europe & Central Asia;0.61;0.46;0.73;0.74;0.84;0.65;0.7;0.82;0.62;0.73;0.74
+Romania;2014;ROU;EU + EFTA + North America;0.59;0.43;0.71;0.73;0.85;0.62;0.68;0.78;0.66;0.78;0.59
+Romania;2015;ROU;EU + EFTA + North America;0.62;0.65;0.73;0.74;0.85;0.64;0.71;0.76;0.61;0.79;0.71
+Romania;2016;ROU;EU + EFTA + North America;0.66;0.7;0.73;0.72;0.84;0.6;0.79;0.83;0.58;0.75;0.76
+Romania;2018;ROU;EU + EFTA + North America;0.65;0.69;0.72;0.71;0.81;0.6;0.76;0.79;0.61;0.74;0.72
+Romania;2019;ROU;EU + EFTA + North America;0.64;0.61;0.7;0.72;0.82;0.62;0.68;0.73;0.61;0.67;0.73
+Romania;2020;ROU;EU + EFTA + North America;0.63;0.59;0.7;0.73;0.82;0.61;0.67;0.74;0.61;0.65;0.75
+Romania;2021;ROU;EU + EFTA + North America;0.63;0.6;0.67;0.71;0.79;0.58;0.66;0.72;0.55;0.65;0.73
+Romania;2022;ROU;EU + EFTA + North America;0.63;0.61;0.67;0.72;0.78;0.58;0.67;0.71;0.56;0.67;0.71
+Russian Federation;2013;RUS;Eastern Europe & Central Asia;0.43;0.33;0.47;0.62;0.46;0.32;0.33;0.53;0.39;0.38;0.68
+Russian Federation;2014;RUS;Eastern Europe & Central Asia;0.45;0.28;0.46;0.59;0.45;0.37;0.39;0.54;0.38;0.44;0.55
+Russian Federation;2015;RUS;Eastern Europe & Central Asia;0.47;0.42;0.47;0.56;0.48;0.4;0.4;0.62;0.3;0.46;0.58
+Russian Federation;2016;RUS;Eastern Europe & Central Asia;0.45;0.41;0.44;0.59;0.4;0.34;0.41;0.56;0.18;0.42;0.61
+Russian Federation;2018;RUS;Eastern Europe & Central Asia;0.47;0.43;0.44;0.58;0.44;0.37;0.42;0.52;0.19;0.45;0.57
+Russian Federation;2019;RUS;Eastern Europe & Central Asia;0.47;0.39;0.45;0.57;0.48;0.38;0.39;0.57;0.24;0.41;0.56
+Russian Federation;2020;RUS;Eastern Europe & Central Asia;0.47;0.39;0.44;0.58;0.45;0.36;0.39;0.54;0.2;0.41;0.57
+Russian Federation;2021;RUS;Eastern Europe & Central Asia;0.46;0.37;0.42;0.58;0.45;0.35;0.37;0.49;0.18;0.39;0.59
+Russian Federation;2022;RUS;Eastern Europe & Central Asia;0.45;0.33;0.4;0.57;0.38;0.34;0.33;0.45;0.18;0.35;0.57
+Senegal;2013;SEN;Sub-Saharan Africa;0.54;0.43;0.62;0.65;0.54;0.41;0.66;0.82;0.46;0.73;0.67
+Senegal;2014;SEN;Sub-Saharan Africa;0.54;0.48;0.63;0.61;0.56;0.43;0.69;0.83;0.58;0.8;0.51
+Senegal;2015;SEN;Sub-Saharan Africa;0.57;0.73;0.63;0.73;0.55;0.43;0.77;0.72;0.37;0.81;0.63
+Senegal;2016;SEN;Sub-Saharan Africa;0.57;0.75;0.62;0.63;0.59;0.42;0.78;0.69;0.37;0.8;0.65
+Senegal;2018;SEN;Sub-Saharan Africa;0.55;0.64;0.59;0.68;0.51;0.43;0.65;0.76;0.28;0.71;0.69
+Senegal;2019;SEN;Sub-Saharan Africa;0.55;0.63;0.6;0.69;0.54;0.45;0.64;0.79;0.34;0.71;0.65
+Senegal;2020;SEN;Sub-Saharan Africa;0.55;0.62;0.6;0.67;0.57;0.45;0.62;0.74;0.35;0.71;0.66
+Senegal;2021;SEN;Sub-Saharan Africa;0.55;0.62;0.6;0.66;0.59;0.46;0.63;0.75;0.37;0.71;0.66
+Senegal;2022;SEN;Sub-Saharan Africa;0.56;0.62;0.61;0.67;0.58;0.48;0.62;0.76;0.39;0.69;0.67
+Serbia;2013;SRB;Eastern Europe & Central Asia;0.51;0.42;0.61;0.59;0.57;0.5;0.58;0.78;0.42;0.72;0.72
+Serbia;2014;SRB;Eastern Europe & Central Asia;0.51;0.42;0.62;0.66;0.63;0.57;0.61;0.75;0.4;0.75;0.59
+Serbia;2015;SRB;Eastern Europe & Central Asia;0.5;0.55;0.58;0.57;0.67;0.49;0.6;0.7;0.39;0.7;0.52
+Serbia;2016;SRB;Eastern Europe & Central Asia;0.5;0.55;0.58;0.54;0.69;0.49;0.55;0.64;0.5;0.67;0.58
+Serbia;2018;SRB;Eastern Europe & Central Asia;0.5;0.49;0.56;0.67;0.6;0.44;0.49;0.71;0.39;0.6;0.62
+Serbia;2019;SRB;Eastern Europe & Central Asia;0.5;0.47;0.56;0.62;0.6;0.46;0.48;0.7;0.38;0.59;0.66
+Serbia;2020;SRB;Eastern Europe & Central Asia;0.5;0.47;0.57;0.65;0.61;0.49;0.48;0.7;0.4;0.58;0.67
+Serbia;2021;SRB;Eastern Europe & Central Asia;0.49;0.46;0.56;0.63;0.58;0.48;0.46;0.7;0.4;0.57;0.64
+Serbia;2022;SRB;Eastern Europe & Central Asia;0.49;0.45;0.55;0.63;0.55;0.5;0.45;0.69;0.41;0.56;0.64
+Sierra Leone;2013;SLE;Sub-Saharan Africa;0.46;0.46;0.63;0.55;0.61;0.4;0.67;0.8;0.58;0.66;0.76
+Sierra Leone;2014;SLE;Sub-Saharan Africa;0.44;0.42;0.55;0.54;0.54;0.36;0.65;0.79;0.43;0.62;0.44
+Sierra Leone;2015;SLE;Sub-Saharan Africa;0.44;0.58;0.53;0.53;0.54;0.38;0.61;0.75;0.41;0.6;0.46
+Sierra Leone;2016;SLE;Sub-Saharan Africa;0.45;0.56;0.57;0.58;0.57;0.42;0.59;0.81;0.42;0.66;0.48
+Sierra Leone;2018;SLE;Sub-Saharan Africa;0.45;0.55;0.52;0.57;0.43;0.46;0.52;0.74;0.26;0.66;0.51
+Sierra Leone;2019;SLE;Sub-Saharan Africa;0.45;0.57;0.52;0.51;0.5;0.4;0.59;0.7;0.36;0.64;0.48
+Sierra Leone;2020;SLE;Sub-Saharan Africa;0.45;0.54;0.51;0.51;0.43;0.4;0.55;0.73;0.34;0.59;0.5
+Sierra Leone;2021;SLE;Sub-Saharan Africa;0.44;0.53;0.51;0.49;0.42;0.41;0.54;0.74;0.39;0.57;0.5
+Sierra Leone;2022;SLE;Sub-Saharan Africa;0.45;0.54;0.5;0.49;0.39;0.42;0.54;0.75;0.36;0.58;0.5
+Singapore;2013;SGP;East Asia & Pacific;0.8;0.6;0.73;0.82;0.87;0.85;0.52;0.79;0.77;0.5;0.69
+Singapore;2014;SGP;East Asia & Pacific;0.79;0.57;0.71;0.8;0.86;0.81;0.51;0.79;0.76;0.47;0.68
+Singapore;2015;SGP;East Asia & Pacific;0.81;0.55;0.72;0.85;0.85;0.74;0.59;0.78;0.62;0.56;0.74
+Singapore;2016;SGP;East Asia & Pacific;0.82;0.57;0.69;0.87;0.85;0.77;0.51;0.65;0.6;0.54;0.72
+Singapore;2018;SGP;East Asia & Pacific;0.8;0.56;0.7;0.86;0.77;0.74;0.52;0.79;0.57;0.55;0.78
+Singapore;2019;SGP;East Asia & Pacific;0.8;0.54;0.69;0.84;0.81;0.74;0.5;0.81;0.61;0.49;0.74
+Singapore;2020;SGP;East Asia & Pacific;0.79;0.51;0.68;0.84;0.8;0.74;0.48;0.81;0.59;0.47;0.73
+Singapore;2021;SGP;East Asia & Pacific;0.78;0.51;0.67;0.83;0.77;0.76;0.47;0.8;0.59;0.44;0.73
+Singapore;2022;SGP;East Asia & Pacific;0.78;0.52;0.67;0.82;0.73;0.75;0.48;0.82;0.59;0.47;0.71
+Slovenia;2013;SVN;Eastern Europe & Central Asia;0.66;0.55;0.78;0.62;0.91;0.72;0.69;0.83;0.82;0.81;0.81
+Slovenia;2014;SVN;EU + EFTA + North America;0.65;0.5;0.79;0.69;0.93;0.77;0.7;0.81;0.82;0.81;0.8
+Slovenia;2015;SVN;EU + EFTA + North America;0.66;0.62;0.77;0.79;0.93;0.74;0.6;0.88;0.73;0.75;0.76
+Slovenia;2016;SVN;EU + EFTA + North America;0.67;0.65;0.77;0.76;0.95;0.74;0.6;0.88;0.71;0.76;0.73
+Slovenia;2018;SVN;EU + EFTA + North America;0.67;0.69;0.74;0.65;0.9;0.74;0.7;0.82;0.67;0.77;0.69
+Slovenia;2019;SVN;EU + EFTA + North America;0.67;0.7;0.73;0.68;0.88;0.7;0.7;0.73;0.69;0.77;0.73
+Slovenia;2020;SVN;EU + EFTA + North America;0.69;0.71;0.75;0.7;0.91;0.72;0.71;0.73;0.74;0.77;0.77
+Slovenia;2021;SVN;EU + EFTA + North America;0.68;0.7;0.76;0.71;0.92;0.73;0.7;0.74;0.75;0.76;0.75
+Slovenia;2022;SVN;EU + EFTA + North America;0.68;0.67;0.74;0.69;0.88;0.74;0.67;0.76;0.72;0.73;0.75
+South Africa;2013;ZAF;Sub-Saharan Africa;0.56;0.62;0.64;0.49;0.65;0.52;0.7;0.78;0.6;0.78;0.62
+South Africa;2014;ZAF;Sub-Saharan Africa;0.55;0.61;0.62;0.52;0.6;0.45;0.72;0.76;0.56;0.77;0.56
+South Africa;2015;ZAF;Sub-Saharan Africa;0.58;0.7;0.63;0.53;0.63;0.5;0.73;0.75;0.53;0.77;0.61
+South Africa;2016;ZAF;Sub-Saharan Africa;0.59;0.66;0.63;0.52;0.64;0.52;0.67;0.73;0.56;0.72;0.65
+South Africa;2018;ZAF;Sub-Saharan Africa;0.59;0.65;0.63;0.52;0.66;0.53;0.67;0.75;0.57;0.73;0.62
+South Africa;2019;ZAF;Sub-Saharan Africa;0.58;0.7;0.64;0.53;0.63;0.55;0.71;0.75;0.57;0.74;0.63
+South Africa;2020;ZAF;Sub-Saharan Africa;0.59;0.7;0.64;0.54;0.62;0.54;0.71;0.73;0.57;0.74;0.66
+South Africa;2021;ZAF;Sub-Saharan Africa;0.58;0.7;0.64;0.52;0.63;0.55;0.71;0.71;0.6;0.73;0.67
+South Africa;2022;ZAF;Sub-Saharan Africa;0.58;0.7;0.63;0.51;0.61;0.53;0.71;0.7;0.6;0.73;0.68
+Spain;2013;ESP;EU + EFTA + North America;0.73;0.57;0.86;0.77;0.86;0.82;0.85;0.85;0.86;0.97;0.89
+Spain;2014;ESP;EU + EFTA + North America;0.67;0.53;0.78;0.73;0.85;0.78;0.74;0.78;0.87;0.81;0.7
+Spain;2015;ESP;EU + EFTA + North America;0.68;0.7;0.78;0.72;0.84;0.77;0.74;0.76;0.84;0.8;0.73
+Spain;2016;ESP;EU + EFTA + North America;0.7;0.71;0.77;0.67;0.85;0.78;0.75;0.78;0.79;0.81;0.71
+Spain;2018;ESP;EU + EFTA + North America;0.7;0.71;0.77;0.69;0.85;0.77;0.74;0.79;0.8;0.81;0.72
+Spain;2019;ESP;EU + EFTA + North America;0.72;0.7;0.78;0.71;0.85;0.78;0.72;0.77;0.85;0.82;0.76
+Spain;2020;ESP;EU + EFTA + North America;0.73;0.71;0.79;0.71;0.86;0.79;0.72;0.77;0.87;0.82;0.74
+Spain;2021;ESP;EU + EFTA + North America;0.73;0.71;0.8;0.73;0.88;0.8;0.72;0.78;0.88;0.82;0.75
+Spain;2022;ESP;EU + EFTA + North America;0.73;0.7;0.79;0.73;0.88;0.8;0.71;0.77;0.86;0.82;0.76
+Sri Lanka;2013;LKA;South Asia;0.55;0.6;0.6;0.64;0.35;0.42;0.63;0.78;0.46;0.68;0.83
+Sri Lanka;2014;LKA;South Asia;0.52;0.51;0.56;0.62;0.39;0.45;0.62;0.74;0.38;0.68;0.59
+Sri Lanka;2015;LKA;South Asia;0.51;0.54;0.49;0.59;0.34;0.43;0.51;0.68;0.21;0.57;0.57
+Sri Lanka;2016;LKA;South Asia;0.51;0.52;0.52;0.49;0.45;0.41;0.52;0.61;0.47;0.57;0.65
+Sri Lanka;2018;LKA;South Asia;0.52;0.57;0.53;0.51;0.41;0.47;0.55;0.64;0.39;0.66;0.63
+Sri Lanka;2019;LKA;South Asia;0.52;0.58;0.54;0.58;0.38;0.41;0.59;0.71;0.34;0.65;0.68
+Sri Lanka;2020;LKA;South Asia;0.52;0.61;0.54;0.56;0.4;0.39;0.63;0.66;0.38;0.69;0.61
+Sri Lanka;2021;LKA;South Asia;0.5;0.6;0.53;0.55;0.4;0.41;0.62;0.63;0.38;0.67;0.6
+Sri Lanka;2022;LKA;South Asia;0.5;0.57;0.5;0.54;0.36;0.38;0.56;0.59;0.34;0.64;0.61
+Sweden;2013;SWE;EU + EFTA + North America;0.89;0.96;0.93;0.83;0.97;0.93;0.94;0.93;0.95;0.98;0.9
+Sweden;2014;SWE;EU + EFTA + North America;0.85;0.77;0.91;0.77;0.99;0.91;0.96;0.92;0.99;0.96;0.81
+Sweden;2015;SWE;EU + EFTA + North America;0.85;0.9;0.9;0.75;0.97;0.9;0.96;0.87;0.94;0.96;0.84
+Sweden;2016;SWE;EU + EFTA + North America;0.86;0.87;0.88;0.74;0.97;0.92;0.92;0.85;0.94;0.87;0.83
+Sweden;2018;SWE;EU + EFTA + North America;0.86;0.87;0.87;0.71;0.97;0.91;0.92;0.83;0.98;0.87;0.77
+Sweden;2019;SWE;EU + EFTA + North America;0.86;0.85;0.86;0.72;0.98;0.92;0.85;0.84;0.97;0.88;0.75
+Sweden;2020;SWE;EU + EFTA + North America;0.86;0.85;0.87;0.73;0.99;0.92;0.85;0.84;0.97;0.87;0.77
+Sweden;2021;SWE;EU + EFTA + North America;0.86;0.85;0.87;0.74;0.98;0.91;0.85;0.84;0.98;0.87;0.76
+Sweden;2022;SWE;EU + EFTA + North America;0.86;0.84;0.86;0.74;0.97;0.9;0.84;0.85;0.96;0.88;0.77
+Tanzania;2013;TZA;Sub-Saharan Africa;0.49;0.57;0.53;0.54;0.46;0.38;0.59;0.64;0.46;0.6;0.53
+Tanzania;2014;TZA;Sub-Saharan Africa;0.47;0.58;0.51;0.59;0.42;0.37;0.59;0.61;0.47;0.6;0.4
+Tanzania;2015;TZA;Sub-Saharan Africa;0.47;0.58;0.51;0.49;0.52;0.29;0.59;0.68;0.55;0.6;0.31
+Tanzania;2016;TZA;Sub-Saharan Africa;0.47;0.49;0.48;0.51;0.4;0.34;0.48;0.65;0.35;0.56;0.5
+Tanzania;2018;TZA;Sub-Saharan Africa;0.47;0.49;0.48;0.58;0.39;0.36;0.46;0.6;0.37;0.54;0.51
+Tanzania;2019;TZA;Sub-Saharan Africa;0.47;0.48;0.45;0.57;0.33;0.32;0.43;0.59;0.29;0.5;0.58
+Tanzania;2020;TZA;Sub-Saharan Africa;0.47;0.48;0.43;0.56;0.31;0.32;0.42;0.58;0.23;0.5;0.55
+Tanzania;2021;TZA;Sub-Saharan Africa;0.47;0.46;0.43;0.56;0.31;0.32;0.41;0.59;0.25;0.49;0.54
+Tanzania;2022;TZA;Sub-Saharan Africa;0.46;0.48;0.43;0.55;0.28;0.3;0.42;0.6;0.21;0.51;0.57
+Thailand;2013;THA;East Asia & Pacific;0.53;0.61;0.66;0.61;0.6;0.58;0.66;0.68;0.75;0.73;0.66
+Thailand;2014;THA;East Asia & Pacific;0.52;0.54;0.58;0.59;0.55;0.42;0.6;0.69;0.57;0.64;0.55
+Thailand;2015;THA;East Asia & Pacific;0.52;0.52;0.5;0.6;0.38;0.35;0.56;0.65;0.28;0.6;0.6
+Thailand;2016;THA;East Asia & Pacific;0.51;0.49;0.47;0.59;0.32;0.39;0.47;0.58;0.27;0.48;0.63
+Thailand;2018;THA;East Asia & Pacific;0.5;0.5;0.47;0.51;0.37;0.38;0.49;0.64;0.31;0.5;0.54
+Thailand;2019;THA;East Asia & Pacific;0.5;0.51;0.48;0.54;0.38;0.4;0.52;0.56;0.37;0.46;0.6
+Thailand;2020;THA;East Asia & Pacific;0.51;0.53;0.49;0.54;0.4;0.42;0.54;0.58;0.38;0.47;0.58
+Thailand;2021;THA;East Asia & Pacific;0.5;0.5;0.47;0.51;0.38;0.42;0.49;0.62;0.4;0.45;0.51
+Thailand;2022;THA;East Asia & Pacific;0.5;0.49;0.46;0.48;0.36;0.44;0.49;0.61;0.37;0.45;0.51
+Tunisia;2013;TUN;Middle East & North Africa;0.57;0.43;0.56;0.62;0.54;0.44;0.61;0.61;0.5;0.6;0.56
+Tunisia;2014;TUN;Middle East & North Africa;0.55;0.41;0.54;0.63;0.51;0.41;0.62;0.53;0.44;0.62;0.54
+Tunisia;2015;TUN;Middle East & North Africa;0.56;0.65;0.54;0.54;0.5;0.49;0.7;0.61;0.23;0.72;0.54
+Tunisia;2016;TUN;Middle East & North Africa;0.53;0.68;0.57;0.57;0.55;0.47;0.72;0.61;0.33;0.74;0.54
+Tunisia;2018;TUN;Middle East & North Africa;0.53;0.59;0.57;0.63;0.63;0.42;0.64;0.51;0.47;0.67;0.55
+Tunisia;2019;TUN;Middle East & North Africa;0.53;0.62;0.56;0.63;0.57;0.44;0.64;0.59;0.43;0.69;0.5
+Tunisia;2020;TUN;Middle East & North Africa;0.54;0.62;0.57;0.63;0.59;0.46;0.65;0.6;0.42;0.69;0.52
+Tunisia;2021;TUN;Middle East & North Africa;0.53;0.61;0.55;0.59;0.58;0.45;0.63;0.58;0.41;0.68;0.51
+Tunisia;2022;TUN;Middle East & North Africa;0.52;0.58;0.51;0.58;0.5;0.43;0.6;0.51;0.34;0.66;0.49
+Turkey;2013;TUR;Eastern Europe & Central Asia;0.52;0.28;0.49;0.58;0.54;0.54;0.44;0.59;0.36;0.52;0.38
+Turkey;2014;TUR;Eastern Europe & Central Asia;0.5;0.35;0.47;0.58;0.56;0.5;0.4;0.51;0.3;0.44;0.45
+Turkey;2015;TUR;Eastern Europe & Central Asia;0.46;0.34;0.36;0.53;0.44;0.41;0.33;0.18;0.15;0.35;0.49
+Turkey;2016;TUR;Eastern Europe & Central Asia;0.43;0.24;0.34;0.51;0.41;0.45;0.23;0.18;0.24;0.26;0.42
+Turkey;2018;TUR;Eastern Europe & Central Asia;0.42;0.23;0.32;0.43;0.38;0.43;0.22;0.21;0.27;0.26;0.36
+Turkey;2019;TUR;Eastern Europe & Central Asia;0.43;0.29;0.32;0.39;0.35;0.42;0.25;0.2;0.23;0.3;0.38
+Turkey;2020;TUR;Eastern Europe & Central Asia;0.43;0.28;0.32;0.37;0.35;0.41;0.26;0.21;0.25;0.3;0.39
+Turkey;2021;TUR;Eastern Europe & Central Asia;0.42;0.27;0.31;0.38;0.34;0.41;0.24;0.19;0.22;0.29;0.44
+Turkey;2022;TUR;Eastern Europe & Central Asia;0.42;0.27;0.3;0.38;0.33;0.4;0.24;0.15;0.22;0.29;0.41
+Uganda;2013;UGA;Sub-Saharan Africa;0.42;0.5;0.43;0.49;0.33;0.29;0.47;0.67;0.2;0.58;0.43
+Uganda;2014;UGA;Sub-Saharan Africa;0.41;0.42;0.37;0.45;0.22;0.31;0.35;0.63;0.17;0.45;0.4
+Uganda;2015;UGA;Sub-Saharan Africa;0.41;0.42;0.39;0.52;0.28;0.29;0.37;0.62;0.11;0.45;0.44
+Uganda;2016;UGA;Sub-Saharan Africa;0.39;0.46;0.39;0.53;0.28;0.31;0.44;0.6;0.05;0.51;0.39
+Uganda;2018;UGA;Sub-Saharan Africa;0.4;0.47;0.4;0.5;0.28;0.3;0.44;0.67;0.07;0.53;0.43
+Uganda;2019;UGA;Sub-Saharan Africa;0.4;0.45;0.38;0.47;0.26;0.3;0.39;0.66;0.05;0.48;0.43
+Uganda;2020;UGA;Sub-Saharan Africa;0.4;0.45;0.37;0.44;0.24;0.3;0.39;0.61;0.07;0.48;0.39
+Uganda;2021;UGA;Sub-Saharan Africa;0.39;0.43;0.36;0.44;0.23;0.31;0.38;0.57;0.08;0.46;0.39
+Uganda;2022;UGA;Sub-Saharan Africa;0.39;0.42;0.34;0.44;0.16;0.29;0.35;0.6;0.06;0.44;0.4
+Ukraine;2013;UKR;Eastern Europe & Central Asia;0.46;0.27;0.58;0.62;0.56;0.43;0.52;0.65;0.54;0.67;0.67
+Ukraine;2014;UKR;Eastern Europe & Central Asia;0.47;0.36;0.56;0.62;0.56;0.38;0.52;0.63;0.52;0.69;0.59
+Ukraine;2015;UKR;Eastern Europe & Central Asia;0.48;0.65;0.61;0.64;0.59;0.43;0.58;0.68;0.49;0.83;0.67
+Ukraine;2016;UKR;Eastern Europe & Central Asia;0.49;0.63;0.63;0.67;0.56;0.45;0.6;0.73;0.51;0.84;0.7
+Ukraine;2018;UKR;Eastern Europe & Central Asia;0.5;0.56;0.59;0.64;0.54;0.46;0.6;0.74;0.43;0.63;0.71
+Ukraine;2019;UKR;Eastern Europe & Central Asia;0.5;0.57;0.61;0.69;0.63;0.45;0.6;0.75;0.44;0.64;0.68
+Ukraine;2020;UKR;Eastern Europe & Central Asia;0.51;0.59;0.61;0.67;0.61;0.44;0.61;0.76;0.43;0.65;0.66
+Ukraine;2021;UKR;Eastern Europe & Central Asia;0.51;0.58;0.61;0.67;0.66;0.45;0.61;0.75;0.43;0.64;0.65
+Ukraine;2022;UKR;Eastern Europe & Central Asia;0.5;0.57;0.6;0.67;0.61;0.44;0.6;0.76;0.43;0.64;0.65
+United Arab Emirates;2013;ARE;Middle East & North Africa;0.64;0.42;0.47;0.48;0.65;0.66;0.31;0.32;0.51;0.25;0.59
+United Arab Emirates;2014;ARE;Middle East & North Africa;0.65;0.41;0.49;0.58;0.68;0.66;0.33;0.35;0.63;0.24;0.45
+United Arab Emirates;2015;ARE;Middle East & North Africa;0.67;0.36;0.5;0.68;0.62;0.7;0.34;0.46;0.44;0.25;0.49
+United Arab Emirates;2016;ARE;Middle East & North Africa;0.66;0.34;0.46;0.61;0.46;0.73;0.36;0.46;0.25;0.28;0.51
+United Arab Emirates;2018;ARE;Middle East & North Africa;0.65;0.34;0.47;0.64;0.59;0.73;0.36;0.45;0.29;0.27;0.46
+United Arab Emirates;2019;ARE;Middle East & North Africa;0.64;0.31;0.46;0.65;0.5;0.72;0.33;0.44;0.32;0.25;0.46
+United Arab Emirates;2020;ARE;Middle East & North Africa;0.65;0.32;0.46;0.64;0.5;0.72;0.33;0.45;0.32;0.26;0.45
+United Arab Emirates;2021;ARE;Middle East & North Africa;0.64;0.32;0.45;0.62;0.5;0.72;0.33;0.44;0.32;0.25;0.43
+United Arab Emirates;2022;ARE;Middle East & North Africa;0.63;0.32;0.44;0.6;0.47;0.73;0.32;0.44;0.33;0.27;0.4
+United Kingdom;2013;GBR;EU + EFTA + North America;0.78;0.78;0.78;0.69;0.86;0.82;0.77;0.83;0.81;0.79;0.69
+United Kingdom;2014;GBR;EU + EFTA + North America;0.78;0.77;0.78;0.71;0.87;0.77;0.82;0.86;0.71;0.84;0.66
+United Kingdom;2015;GBR;EU + EFTA + North America;0.78;0.79;0.79;0.7;0.9;0.82;0.82;0.83;0.69;0.85;0.71
+United Kingdom;2016;GBR;EU + EFTA + North America;0.81;0.86;0.81;0.71;0.92;0.79;0.85;0.88;0.75;0.88;0.68
+United Kingdom;2018;GBR;EU + EFTA + North America;0.81;0.85;0.81;0.71;0.88;0.79;0.85;0.85;0.79;0.89;0.68
+United Kingdom;2019;GBR;EU + EFTA + North America;0.8;0.84;0.82;0.72;0.94;0.81;0.85;0.87;0.79;0.89;0.69
+United Kingdom;2020;GBR;EU + EFTA + North America;0.79;0.83;0.79;0.67;0.91;0.78;0.84;0.85;0.76;0.89;0.65
+United Kingdom;2021;GBR;EU + EFTA + North America;0.79;0.83;0.8;0.69;0.94;0.79;0.83;0.86;0.8;0.88;0.66
+United Kingdom;2022;GBR;EU + EFTA + North America;0.79;0.83;0.81;0.69;0.91;0.77;0.83;0.85;0.82;0.88;0.7
+United States;2013;USA;EU + EFTA + North America;0.73;0.78;0.73;0.52;0.76;0.62;0.8;0.82;0.8;0.85;0.63
+United States;2014;USA;EU + EFTA + North America;0.71;0.71;0.71;0.56;0.75;0.62;0.79;0.8;0.69;0.83;0.61
+United States;2015;USA;EU + EFTA + North America;0.73;0.8;0.73;0.55;0.78;0.68;0.83;0.78;0.67;0.87;0.68
+United States;2016;USA;EU + EFTA + North America;0.74;0.83;0.75;0.52;0.88;0.7;0.84;0.77;0.84;0.86;0.58
+United States;2018;USA;EU + EFTA + North America;0.73;0.8;0.72;0.5;0.84;0.64;0.81;0.75;0.8;0.83;0.58
+United States;2019;USA;EU + EFTA + North America;0.72;0.8;0.72;0.51;0.84;0.63;0.79;0.73;0.83;0.85;0.56
+United States;2020;USA;EU + EFTA + North America;0.72;0.79;0.72;0.51;0.85;0.63;0.79;0.74;0.82;0.86;0.56
+United States;2021;USA;EU + EFTA + North America;0.69;0.73;0.66;0.48;0.73;0.6;0.71;0.7;0.76;0.78;0.56
+United States;2022;USA;EU + EFTA + North America;0.71;0.74;0.68;0.48;0.78;0.63;0.71;0.7;0.81;0.78;0.56
+Uruguay;2013;URY;Latin America & Caribbean;0.68;0.65;0.75;0.69;0.81;0.53;0.74;0.87;0.77;0.82;0.75
+Uruguay;2014;URY;Latin America & Caribbean;0.69;0.64;0.76;0.69;0.83;0.54;0.8;0.93;0.75;0.89;0.68
+Uruguay;2015;URY;Latin America & Caribbean;0.71;0.78;0.79;0.74;0.9;0.59;0.8;0.92;0.77;0.86;0.76
+Uruguay;2016;URY;Latin America & Caribbean;0.72;0.8;0.8;0.7;0.9;0.66;0.84;0.91;0.77;0.88;0.76
+Uruguay;2018;URY;Latin America & Caribbean;0.71;0.79;0.78;0.72;0.82;0.62;0.83;0.87;0.7;0.86;0.81
+Uruguay;2019;URY;Latin America & Caribbean;0.71;0.76;0.76;0.68;0.83;0.62;0.76;0.83;0.76;0.83;0.81
+Uruguay;2020;URY;Latin America & Caribbean;0.71;0.77;0.78;0.7;0.85;0.63;0.78;0.85;0.78;0.84;0.8
+Uruguay;2021;URY;Latin America & Caribbean;0.71;0.77;0.79;0.74;0.85;0.63;0.78;0.86;0.79;0.84;0.83
+Uruguay;2022;URY;Latin America & Caribbean;0.71;0.77;0.78;0.73;0.85;0.61;0.78;0.85;0.79;0.84;0.83
+Uzbekistan;2013;UZB;Eastern Europe & Central Asia;0.43;0.33;0.34;0.64;0.3;0.25;0.13;0.55;0.17;0.24;0.42
+Uzbekistan;2014;UZB;Eastern Europe & Central Asia;0.45;0.28;0.36;0.65;0.3;0.33;0.15;0.55;0.2;0.25;0.42
+Uzbekistan;2015;UZB;Eastern Europe & Central Asia;0.46;0.24;0.41;0.69;0.36;0.35;0.26;0.66;0.17;0.25;0.59
+Uzbekistan;2016;UZB;Eastern Europe & Central Asia;0.45;0.16;0.36;0.6;0.33;0.31;0.24;0.64;0.11;0.06;0.59
+Uzbekistan;2018;UZB;Eastern Europe & Central Asia;0.46;0.23;0.38;0.62;0.4;0.37;0.27;0.5;0.22;0.13;0.56
+Uzbekistan;2019;UZB;Eastern Europe & Central Asia;0.46;0.27;0.39;0.58;0.48;0.35;0.32;0.57;0.2;0.18;0.48
+Uzbekistan;2020;UZB;Eastern Europe & Central Asia;0.47;0.26;0.41;0.57;0.51;0.38;0.33;0.58;0.28;0.17;0.47
+Uzbekistan;2021;UZB;Eastern Europe & Central Asia;0.49;0.35;0.44;0.57;0.49;0.41;0.39;0.55;0.28;0.33;0.49
+Uzbekistan;2022;UZB;Eastern Europe & Central Asia;0.5;0.34;0.45;0.59;0.49;0.4;0.4;0.56;0.28;0.32;0.53
+Vietnam;2013;VNM;East Asia & Pacific;0.49;0.33;0.48;0.6;0.74;0.59;0.27;0.29;0.67;0.18;0.51
+Vietnam;2014;VNM;East Asia & Pacific;0.48;0.4;0.5;0.62;0.66;0.48;0.35;0.39;0.72;0.3;0.52
+Vietnam;2015;VNM;East Asia & Pacific;0.5;0.37;0.52;0.65;0.6;0.52;0.38;0.49;0.6;0.32;0.57
+Vietnam;2016;VNM;East Asia & Pacific;0.51;0.42;0.54;0.68;0.62;0.52;0.41;0.49;0.6;0.39;0.6
+Vietnam;2018;VNM;East Asia & Pacific;0.5;0.42;0.5;0.61;0.55;0.53;0.41;0.42;0.53;0.37;0.58
+Vietnam;2019;VNM;East Asia & Pacific;0.49;0.42;0.46;0.62;0.46;0.44;0.4;0.33;0.44;0.37;0.63
+Vietnam;2020;VNM;East Asia & Pacific;0.49;0.42;0.46;0.6;0.47;0.44;0.4;0.3;0.47;0.37;0.61
+Vietnam;2021;VNM;East Asia & Pacific;0.49;0.42;0.45;0.58;0.47;0.44;0.4;0.3;0.46;0.36;0.63
+Vietnam;2022;VNM;East Asia & Pacific;0.49;0.42;0.45;0.57;0.46;0.44;0.4;0.31;0.41;0.38;0.64
+Zambia;2013;ZMB;Sub-Saharan Africa;0.46;0.44;0.41;0.45;0.51;0.35;0.37;0.35;0.58;0.34;0.31
+Zambia;2014;ZMB;Sub-Saharan Africa;0.47;0.49;0.43;0.49;0.37;0.33;0.43;0.54;0.48;0.42;0.41
+Zambia;2015;ZMB;Sub-Saharan Africa;0.47;0.47;0.42;0.42;0.28;0.35;0.45;0.57;0.41;0.47;0.39
+Zambia;2016;ZMB;Sub-Saharan Africa;0.48;0.47;0.45;0.45;0.39;0.35;0.44;0.71;0.32;0.48;0.43
+Zambia;2018;ZMB;Sub-Saharan Africa;0.47;0.46;0.43;0.49;0.35;0.39;0.43;0.68;0.25;0.42;0.44
+Zambia;2019;ZMB;Sub-Saharan Africa;0.47;0.45;0.45;0.51;0.4;0.42;0.43;0.67;0.29;0.41;0.47
+Zambia;2020;ZMB;Sub-Saharan Africa;0.45;0.42;0.42;0.5;0.36;0.39;0.39;0.63;0.23;0.38;0.46
+Zambia;2021;ZMB;Sub-Saharan Africa;0.44;0.41;0.41;0.49;0.32;0.39;0.38;0.62;0.25;0.38;0.43
+Zambia;2022;ZMB;Sub-Saharan Africa;0.45;0.43;0.4;0.48;0.3;0.36;0.4;0.61;0.26;0.39;0.41
+Zimbabwe;2013;ZWE;Sub-Saharan Africa;0.35;0.21;0.31;0.36;0.32;0.3;0.14;0.61;0.19;0.18;0.4
+Zimbabwe;2014;ZWE;Sub-Saharan Africa;0.34;0.2;0.29;0.34;0.26;0.25;0.16;0.6;0.14;0.19;0.37
+Zimbabwe;2015;ZWE;Sub-Saharan Africa;0.37;0.23;0.29;0.36;0.28;0.27;0.19;0.55;0.04;0.21;0.43
+Zimbabwe;2016;ZWE;Sub-Saharan Africa;0.37;0.18;0.28;0.37;0.2;0.3;0.14;0.44;0.16;0.17;0.48
+Zimbabwe;2018;ZWE;Sub-Saharan Africa;0.37;0.19;0.29;0.36;0.25;0.37;0.15;0.42;0.11;0.19;0.47
+Zimbabwe;2019;ZWE;Sub-Saharan Africa;0.4;0.32;0.35;0.41;0.27;0.36;0.3;0.47;0.13;0.34;0.49
+Zimbabwe;2020;ZWE;Sub-Saharan Africa;0.39;0.28;0.34;0.45;0.26;0.36;0.27;0.49;0.11;0.3;0.47
+Zimbabwe;2021;ZWE;Sub-Saharan Africa;0.39;0.28;0.34;0.45;0.28;0.36;0.26;0.5;0.12;0.29;0.48
+Zimbabwe;2022;ZWE;Sub-Saharan Africa;0.39;0.28;0.34;0.41;0.3;0.37;0.26;0.46;0.14;0.29;0.47
