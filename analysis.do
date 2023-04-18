@@ -11,8 +11,8 @@ sort country_id year
 lab var country_id "Country ID"
 drop if country == "Belarus"
 *variable regarding freedom
-gen avg_freedom15 = (freedomofopinionandexpressionise + freedomofbeliefandreligioniseffe + freedomfromarbitraryinterference + freedomofassemblyandassociationi + freedomofassemblyandassociationi) / 5 if year == 2015
-gen avg_freedom21 = (freedomofopinionandexpressionise + freedomofbeliefandreligioniseffe + freedomfromarbitraryinterference + freedomofassemblyandassociationi + freedomofassemblyandassociationi) / 5 if year == 2021
+gen avg_freedom15 = (freedomofopinionandexpressionise + freedomofbeliefandreligioniseffe + freedomfromarbitraryinterference + freedomofassemblyandassociationi) / 4 if year == 2015
+gen avg_freedom21 = (freedomofopinionandexpressionise + freedomofbeliefandreligioniseffe + freedomfromarbitraryinterference + freedomofassemblyandassociationi) / 4 if year == 2021
 gen lnavg_free15 = ln(avg_freedom15)
 gen lnavg_free21 = ln(avg_freedom21)
 lab var lnavg_free15 "Log of average freedom in 2015"
