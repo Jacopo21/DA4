@@ -1,5 +1,3 @@
-ssc install estout
-
 import delimited "C:\Users\Binati_Jacopo\Desktop\project\data_project.csv", varnames(1) asfloat stringcols(1 3 4) numericcols (2 5 6 7 8 9 10 11 12 13 14 15) 
 
 
@@ -193,15 +191,10 @@ treatmentXafter |          0  (omitted)
 ---------------------------------------------------------------------------------
 */
 
-**GRAPHS 
-twoway line avg_civi15 year, by(region) legend(label(1 "2015") label(2 "2021"))
-       xtitle("Year") ytitle("Civic Participation") ytitle(`"`: variable label country'"')
-graph export "C:\Users\Binati_Jacopo\Desktop\project\before_after-civi.png",replace
-
-
 
 *collapse (mean) avg_civi15 avg_civi21 avg_freedom15 avg_freedom21 year, by(region)
 xtline wjpruleoflawindexoverallscore avg_civi15 avg_civi21, i(region) t(year)
+graph export "C:\Users\Binati_Jacopo\Desktop\project\graph.png",replace
 
 tabstat avg_civi21 avg_civi15, by(region) statistics(count mean sd min max) save
 
@@ -289,3 +282,17 @@ twoway line civicparticipation year if region == "South Asia", by(country) legen
 graph export "C:\Users\Binati_Jacopo\Desktop\project\GRAPHS\SOUTHASIA_BEFAFTcivi.png",replace
 
 *************************************************************************
+sort region country_id
+egen region_id = group(region)
+twoway line civicparticipation country_id if year == 2015, ///
+    lc(green) legend(label(1 "2015")) ///
+    || ///
+    line civicparticipation country_id if year == 2021, ///
+    lc(red) legend(label(2 "2021")) ///
+    xtitle("Country ID") ytitle("Civic Participation") ///
+    title("Trends in Civic Participation by Country (2015 vs 2021)") ///
+    legend(pos(10) ring(0) col(1)) 
+	
+
+
+
